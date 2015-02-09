@@ -1,4 +1,5 @@
-notes
-=====
+Notes
+
+—
 
 Version-controlled Notebook.
