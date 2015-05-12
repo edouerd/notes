@@ -8,14 +8,14 @@ A brief collection of helpful stuff to remember as I'm learning.
 
 Table of Contents (in no specfic order)
 
-1. [HTML](#HTML)
-2. [CSS](#CSS)
-3. [Javascript](#Javascript)
-4. [3D](#3D)
+1. [HTML](#html)
+2. [CSS](#css)
+3. [Javascript](#javascript)
+4. [3D](#3d)
 5. [SVG](#svg)
-6. [Data Visualization](#)
-7. [Security](#Security)
-8. [Performance](#Performance)
+6. [Data Visualization](#data-visualization)
+7. [Security](#security)
+8. [Performance](#performance)
 
 —
 
