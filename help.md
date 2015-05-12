@@ -32,10 +32,13 @@ Table of Contents (in no specfic order)
 - Attribute Selectors — https://css-tricks.com/attribute-selectors/
 - Flexbox Resource Collection — http://cssflexbox.com/
 - Inverted Triangle CSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
+- CSS Property Reference — http://tympanus.net/codrops/css_reference/
 
 —
 
 ##### Javascript
+
+- Learn Javascript Resources — http://frontenddeveloperjob.com/learn-javascript/
 
 —
 
@@ -65,3 +68,9 @@ Table of Contents (in no specfic order)
 ##### Performance
 
 - Slides by Una — http://una.im/slides-nom-nom-perf/#/
+
+—
+
+##### Git
+
+- First-Aid Git — http://firstaidgit.io/#/
