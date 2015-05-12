@@ -74,3 +74,9 @@ Table of Contents (in no specfic order)
 ##### Git
 
 - First-Aid Git — http://firstaidgit.io/#/
+
+—
+
+##### Patterns
+
+- Pttrns — http://pttrns.com/
