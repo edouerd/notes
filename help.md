@@ -31,6 +31,7 @@ Table of Contents (in no specfic order)
 
 - Attribute Selectors — https://css-tricks.com/attribute-selectors/
 - Flexbox Resource Collection — http://cssflexbox.com/
+- Inverted Triangle CSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
 
 —
 
