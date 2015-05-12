@@ -19,7 +19,7 @@ Table of Contents (in no specfic order)
 
 —
 
-HTML
+##### HTML
 
 - Symbol Codes — http://htmlarrows.com/
 - Code Guide — http://codeguide.co/
@@ -27,39 +27,40 @@ HTML
 
 —
 
-CSS
+##### CSS
 
 - Attribute Selectors — https://css-tricks.com/attribute-selectors/
 - Flexbox Resource Collection — http://cssflexbox.com/
 
 —
 
-Javascript
+##### Javascript
 
 —
 
-3D
+##### 3D
 
 —
 
-SVG
+##### SVG
 
-Slides by R.B. — http://ryanbrownhill.github.io/svg-animation-pres/#/
+- Slides by R.B. — http://ryanbrownhill.github.io/svg-animation-pres/#/
+- Viewport — http://sarasoueidan.com/blog/svg-coordinate-systems/
 
 —
 
-Data Vizualization
+##### Data Vizualization
 
 - Closest Point on a Path — http://bl.ocks.org/mbostock/8027835
 
 —
 
-Security
+##### Security
 
 - OSX PGP Tutorial — http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/
 
 —
 
-Performance
+##### Performance
 
 - Slides by Una — http://una.im/slides-nom-nom-perf/#/
