@@ -50,6 +50,8 @@ Table of Contents (in no specfic order)
 
 - Slides by R.B. — http://ryanbrownhill.github.io/svg-animation-pres/#/
 - Viewport — http://sarasoueidan.com/blog/svg-coordinate-systems/
+- Fallbacks — https://css-tricks.com/a-complete-guide-to-svg-fallbacks/?utm_source=dlvr.it&utm_medium=twitter
+- 
 
 —
 
@@ -69,6 +71,7 @@ Table of Contents (in no specfic order)
 ##### Performance
 
 - Slides by Una — http://una.im/slides-nom-nom-perf/#/
+- Wicked Fast Websites — http://gomakethings.com/wicked-fast-websites/
 
 —
 
@@ -81,3 +84,10 @@ Table of Contents (in no specfic order)
 ##### Patterns
 
 - Pttrns — http://pttrns.com/
+- Ideal Form Design — http://uxmovement.com/forms/why-infield-top-aligned-form-labels-are-quickest-to-scan/
+
+—
+
+##### Typography
+
+- VW Unit Calculator — http://emilolsson.com/tools/vw-unit-calc-an-online-responsive-css-font-size-calculator/
