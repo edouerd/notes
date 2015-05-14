@@ -16,6 +16,9 @@ Table of Contents (in no specfic order)
 6. [Data Visualization](#data-visualization)
 7. [Security](#security)
 8. [Performance](#performance)
+9. [Git](#git)
+10. [Patterns](#patterns)
+11. [Typography](#tyopgraphy)
 
 —
 
