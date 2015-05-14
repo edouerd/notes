@@ -19,6 +19,7 @@ Table of Contents (in no specfic order)
 9. [Git](#git)
 10. [Patterns](#patterns)
 11. [Typography](#tyopgraphy)
+12. [Command Line](#command-line)
 
 —
 
@@ -36,12 +37,18 @@ Table of Contents (in no specfic order)
 - Flexbox Resource Collection — http://cssflexbox.com/
 - ITCSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
 - BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
+- BEMCSS Definitions — https://en.bem.info/method/definitions/
+- BEM for UX — http://simurai.com/blog/2013/10/24/BEM-syntax-with-ux-in-mind/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
 - Usefull SASS Snippets — http://hmphry.com/useful-sass-mixins
 - 30 CSS Selectors — http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 - CSS Specificity — http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
 - CSS Float Theory — http://www.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/
 - DRYing Out Sass Mixins — http://alistapart.com/article/dry-ing-out-your-sass-mixins
+- Proper Layouting — https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing?hl=en
+- Nesting Components — http://simurai.com/blog/2015/05/11/nesting-components/
+- SMACSS — https://smacss.com/
+- Spacing elements — http://simurai.com/blog/2014/05/25/spacing-elements/
 
 —
 
@@ -50,6 +57,8 @@ Table of Contents (in no specfic order)
 - Learn Javascript Resources — http://frontenddeveloperjob.com/learn-javascript/
 - Unveil.js — http://luis-almeida.github.io/unveil/
 - Lazyload — http://www.appelsiini.net/projects/lazyload
+- React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
+- React Resources — https://github.com/enaqx/awesome-react
 
 —
 
@@ -79,6 +88,7 @@ Table of Contents (in no specfic order)
 - Snap.svg — http://snapsvg.io/
 - CSS Animation Guide — https://ihatetomatoes.net/the-guide-to-css-animations-for-the-web/
 - Javascript Animation Guide — https://ihatetomatoes.net/the-guide-to-javascript-animations-for-the-web/
+- Una: SPA — http://una.im/spa/#💁
 
 —
 
@@ -86,6 +96,8 @@ Table of Contents (in no specfic order)
 
 - Closest Point on a Path — http://bl.ocks.org/mbostock/8027835
 - Mapbox — https://www.mapbox.com/blog/mars-maps/
+- Vis-á-Wik — http://cii.oii.ox.ac.uk/vis-a-wik-a-visual-analytics-tool-for-wikipedia-analysis/
+- Vis-á-Wik Tool — http://sdesabbata.github.io/vis-a-wik/
 
 —
 
@@ -105,6 +117,7 @@ Table of Contents (in no specfic order)
 ##### Git
 
 - First-Aid Git — http://firstaidgit.io/#/
+- Git-based Project Proposals — http://www.lacroixdesign.net/blog/streamlining-our-proposal-writing-process/
 
 —
 
@@ -122,3 +135,19 @@ Table of Contents (in no specfic order)
 
 - VW Unit Calculator — http://emilolsson.com/tools/vw-unit-calc-an-online-responsive-css-font-size-calculator/
 - Faster Font Loading — https://jonsuh.com/blog/font-loading-with-font-events/
+
+—
+
+##### Command Line
+
+- Commands I — https://github.com/nrrrdcore/terminal#terminal-shortcuts--commands
+- Commands II — https://quickleft.com/blog/command-line-tutorials-summary-what-s-next/
+- The Unix Command Line — https://leanpub.com/just-enough-unix-command-line
+- Una: Embrace the Terminal — http://una.im/embrace-the-terminal/#💁
+
+—
+
+##### Text Editing
+
+- Why Vim — http://www.reddit.com/r/ProgrammerHumor/comments/338tx5/vim/cqiyma2
+- Vim Text Objects — http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
