@@ -14,8 +14,10 @@ Design
 3. Allan Yu — http://allanyu.nyc/
 4. Na Kim — http://www.ynkim.com/
 5. Tracy Ma — http://cargocollective.com/tracyma
+6. Kristine Five Melvaer — http://kristinefivemelvaer.com/
 4. Jon Gold — http://www.jon.gd/
 5. Eline Mul — http://www.elinemul.com/
+6. Ash Huang — http://ashsmash.com/
 5. Annie Wang — http://www.annieyilingwang.com/
 5. Rune Madsen — http://runemadsen.com • http://printingcode.runemadsen.com/
 6. Heesun Seo — http://hxx.kr/about/
@@ -40,3 +42,4 @@ Studios
 
 1. Common Name — http://common-name.com/about/
 2. Nothing in Common — http://nothing-in.com/
+3. Cox & Grunsenmeyer — http://www.cox-grusenmeyer.com/
