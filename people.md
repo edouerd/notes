@@ -25,6 +25,8 @@ Design
 5. Dan Eden — http://daneden.me/ • https://github.com/daneden/daneden.me
 6. Eric Hu — http://erichu.info/ • https://github.com/er1chu/EricHu.info
 7. Kevin Schaefer — http://kjschaef.com/
+8. Erica Bech — http://ericabech.com/
+9. Keetra Deen Dixon — http://fromkeetra.com/
 8. Stephanie Davidson — http://www.stephanie-davidson.com/
 8. Justin Edmund — http://www.jedmund.com/
 9. Johnathan Vingiano — http://jonathanvingiano.com/
@@ -34,7 +36,11 @@ Design
 Art
 
 1. John Lisle — http://johnelisle.com/
+2. Petra Cortright — http://www.petracortright.com/
+3. Sara Ludy — http://www.saraludy.com/
+4. Sabrina Ratté — http://sabrinaratte.com/
 2. Johnny Negron — http://jonnynegron.tumblr.com/
+3. Laura Brothers — http://www.out4pizza.com/
 
 —
 
