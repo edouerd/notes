@@ -39,6 +39,7 @@ Table of Contents (in no specfic order)
 - BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
 - BEMCSS Definitions — https://en.bem.info/method/definitions/
 - BEM for UX — http://simurai.com/blog/2013/10/24/BEM-syntax-with-ux-in-mind/
+- CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
 - Usefull SASS Snippets — http://hmphry.com/useful-sass-mixins
 - 30 CSS Selectors — http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
