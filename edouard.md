@@ -38,3 +38,4 @@ edouerd
 - https://www.facebook.com/edouerd
 - https://twitter.com/edouerd
 - https://github.com/edouerd
+- https://ifttt.com/p/edouerd
