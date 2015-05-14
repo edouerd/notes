@@ -43,7 +43,10 @@ Table of Contents (in no specfic order)
 - Flexbox Resource Collection — http://cssflexbox.com/
 - ITCSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
 - BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
+- BEM 101 — https://css-tricks.com/bem-101/
+- MindBEMding — http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 - BEMCSS Definitions — https://en.bem.info/method/definitions/
+- BEM + SASS — https://medium.com/@andersonorui_/bem-sass-and-bootstrap-9f89dc07d20f
 - BEM for UX — http://simurai.com/blog/2013/10/24/BEM-syntax-with-ux-in-mind/
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
