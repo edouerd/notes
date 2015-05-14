@@ -50,7 +50,6 @@ Table of Contents (in no specfic order)
 - Learn Javascript Resources — http://frontenddeveloperjob.com/learn-javascript/
 - Unveil.js — http://luis-almeida.github.io/unveil/
 - Lazyload — http://www.appelsiini.net/projects/lazyload
-- 
 
 —
 
@@ -67,8 +66,7 @@ Table of Contents (in no specfic order)
 - Slides by R.B. — http://ryanbrownhill.github.io/svg-animation-pres/#/
 - Viewport — http://sarasoueidan.com/blog/svg-coordinate-systems/
 - Fallbacks — https://css-tricks.com/a-complete-guide-to-svg-fallbacks/?utm_source=dlvr.it&utm_medium=twitter
-- Pockt Guide to SVG — http://svgpocketguide.com/book/
-- 
+- Pocket Guide to SVG — http://svgpocketguide.com/book/
 
 ##### Animation 
 
