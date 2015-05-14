@@ -8,6 +8,7 @@ A brief collection of helpful stuff to remember as I'm learning.
 
 Table of Contents (in no specfic order)
 
+0. [General](#general)
 1. [HTML](#html)
 2. [CSS](#css)
 3. [Javascript](#javascript)
@@ -20,8 +21,13 @@ Table of Contents (in no specfic order)
 10. [Patterns](#patterns)
 11. [Typography](#tyopgraphy)
 12. [Command Line](#command-line)
+13. [Text Editing](#text-editing)
 
 —
+
+##### General
+
+- B.S. in CS — https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview#
 
 ##### HTML
 
