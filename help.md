@@ -22,6 +22,7 @@ Table of Contents (in no specfic order)
 11. [Typography](#tyopgraphy)
 12. [Command Line](#command-line)
 13. [Text Editing](#text-editing)
+14. [iOS/OSX](#iososx)
 
 —
 
@@ -164,6 +165,8 @@ Table of Contents (in no specfic order)
 
 - Why Vim — http://www.reddit.com/r/ProgrammerHumor/comments/338tx5/vim/cqiyma2
 - Vim Text Objects — http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
+
+—
 
 ##### iOS/OSX
 
