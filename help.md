@@ -19,7 +19,7 @@ Table of Contents (in no specfic order)
 8. [Performance](#performance)
 9. [Git](#git)
 10. [Patterns](#patterns)
-11. [Typography](#tyopgraphy)
+11. [Typography](#typography)
 12. [Command Line](#command-line)
 13. [Text Editing](#text-editing)
 14. [iOS/OSX](#iososx)
@@ -53,7 +53,7 @@ Table of Contents (in no specfic order)
 - BEM for UX — http://simurai.com/blog/2013/10/24/BEM-syntax-with-ux-in-mind/
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
-- Usefull SASS Snippets — http://hmphry.com/useful-sass-mixins
+- Useful SASS Snippets — http://hmphry.com/useful-sass-mixins
 - 30 CSS Selectors — http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 - CSS Specificity — http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
 - CSS Float Theory — http://www.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/
