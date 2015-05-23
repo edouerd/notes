@@ -75,6 +75,7 @@ Table of Contents (in no specfic order)
 - Lazyload — http://www.appelsiini.net/projects/lazyload
 - React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
 - React Resources — https://github.com/enaqx/awesome-react
+- Webapps w/ plain js — http://plainjs.com/
 
 —
 
