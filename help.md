@@ -53,6 +53,7 @@ Table of Contents (in no specfic order)
 - BEMCSS Definitions — https://en.bem.info/method/definitions/
 - BEM + SASS — https://medium.com/@andersonorui_/bem-sass-and-bootstrap-9f89dc07d20f
 - BEM for UX — http://simurai.com/blog/2013/10/24/BEM-syntax-with-ux-in-mind/
+- OOCSS + Sass - http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
 - Useful SASS Snippets — http://hmphry.com/useful-sass-mixins
@@ -65,6 +66,8 @@ Table of Contents (in no specfic order)
 - SMACSS — https://smacss.com/
 - Spacing elements — http://simurai.com/blog/2014/05/25/spacing-elements/
 - Sizing Web Components — http://simurai.com/blog/2013/07/03/sizing-components/
+- Mixins vs. Extends — https://tech.bellycard.com/blog/sass-mixins-vs-extends-the-data/
+- When to use Extends/Mixins — http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/
 
 —
 
