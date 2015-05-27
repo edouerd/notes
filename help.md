@@ -68,6 +68,7 @@ Table of Contents (in no specfic order)
 - Sizing Web Components — http://simurai.com/blog/2013/07/03/sizing-components/
 - Mixins vs. Extends — https://tech.bellycard.com/blog/sass-mixins-vs-extends-the-data/
 - When to use Extends/Mixins — http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/
+- CSS Hacks — http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/
 
 —
 
@@ -76,6 +77,7 @@ Table of Contents (in no specfic order)
 - Learn Javascript Resources — http://frontenddeveloperjob.com/learn-javascript/
 - Unveil.js — http://luis-almeida.github.io/unveil/
 - Lazyload — http://www.appelsiini.net/projects/lazyload
+- Layzr.js — http://callmecavs.github.io/layzr.js/
 - React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
 - React Resources — https://github.com/enaqx/awesome-react
 - Webapps w/ plain js — http://plainjs.com/
