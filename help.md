@@ -46,6 +46,7 @@ Table of Contents (in no specfic order)
 
 - Attribute Selectors — https://css-tricks.com/attribute-selectors/
 - Flexbox Resource Collection — http://cssflexbox.com/
+- Solved by Flexbox — https://philipwalton.github.io/solved-by-flexbox/
 - ITCSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
 - BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
 - BEM 101 — https://css-tricks.com/bem-101/
@@ -81,6 +82,10 @@ Table of Contents (in no specfic order)
 - React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
 - React Resources — https://github.com/enaqx/awesome-react
 - Webapps w/ plain js — http://plainjs.com/
+- You might not need jQuery — http://youmightnotneedjquery.com/
+- Javascript Graphs — http://www.jsgraphs.com/
+- Sparklines — http://prag.ma/code/sparky/
+- Animation Library — http://famous.org/
 
 —
 
