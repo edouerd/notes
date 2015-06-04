@@ -31,6 +31,7 @@ Table of Contents (in no specfic order)
 - B.S. in CS — https://docs.google.com/spreadsheets/d/1_kdHrT8izbROJNaxGflpcZm2ivsjRGF8j1hMzl3b8O0/htmlview#
 - Technical Development — https://www.google.com/about/careers/students/guide-to-technical-development.html
 - North — http://pointnorth.io/
+- Jekyll Tips* — http://jekyll.tips/
 
 —
 
@@ -76,11 +77,13 @@ Table of Contents (in no specfic order)
 ##### Javascript
 
 - Learn Javascript Resources — http://frontenddeveloperjob.com/learn-javascript/
+- Learn Javascript Book — http://gitbookio.gitbooks.io/javascript/content/en/index.html
 - Unveil.js — http://luis-almeida.github.io/unveil/
 - Lazyload — http://www.appelsiini.net/projects/lazyload
 - Layzr.js — http://callmecavs.github.io/layzr.js/
 - React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
 - React Resources — https://github.com/enaqx/awesome-react
+- Icons w/ JS and React — http://jxnblk.com/react-icons/
 - Webapps w/ plain js — http://plainjs.com/
 - You might not need jQuery — http://youmightnotneedjquery.com/
 - Javascript Graphs — http://www.jsgraphs.com/
@@ -127,6 +130,7 @@ Table of Contents (in no specfic order)
 - Mapbox — https://www.mapbox.com/blog/mars-maps/
 - Vis-á-Wik — http://cii.oii.ox.ac.uk/vis-a-wik-a-visual-analytics-tool-for-wikipedia-analysis/
 - Vis-á-Wik Tool — http://sdesabbata.github.io/vis-a-wik/
+- Highcharts — http://www.highcharts.com/
 
 —
 
