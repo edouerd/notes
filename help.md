@@ -125,7 +125,7 @@ Table of Contents (in no specfic order)
 
 —
 
-##### Data Vizualization
+##### Data Visualization
 
 - Closest Point on a Path — http://bl.ocks.org/mbostock/8027835
 - Mapbox — https://www.mapbox.com/blog/mars-maps/
