@@ -83,6 +83,7 @@ Table of Contents (in no specfic order)
 - Layzr.js — http://callmecavs.github.io/layzr.js/
 - React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
 - React Resources — https://github.com/enaqx/awesome-react
+- React Native — http://blog.typework.com/react-native-universal/
 - Icons w/ JS and React — http://jxnblk.com/react-icons/
 - Webapps w/ plain js — http://plainjs.com/
 - You might not need jQuery — http://youmightnotneedjquery.com/
@@ -131,6 +132,7 @@ Table of Contents (in no specfic order)
 - Vis-á-Wik — http://cii.oii.ox.ac.uk/vis-a-wik-a-visual-analytics-tool-for-wikipedia-analysis/
 - Vis-á-Wik Tool — http://sdesabbata.github.io/vis-a-wik/
 - Highcharts — http://www.highcharts.com/
+- Intro to APIs — https://zapier.com/learn/apis/chapter-1-introduction-to-apis/
 
 —
 
