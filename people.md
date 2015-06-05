@@ -10,6 +10,8 @@ Design
 
 1. Sunny Park — http://sunnyinthepark.com/index.html
 2. Jennifer Choi — http://jchoi.info/
+3. Anton Anger — http://antonanger.com/
+4. Joseph Bergdoll — http://osephj.com/
 2. Ingo Lempur — http://www.selftitled.de/
 3. Allan Yu — http://allanyu.nyc/
 4. Na Kim — http://www.ynkim.com/
