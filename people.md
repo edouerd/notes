@@ -42,6 +42,7 @@ Art
 4. Sabrina Ratté — http://sabrinaratte.com/
 2. Johnny Negron — http://jonnynegron.tumblr.com/
 3. Laura Brothers — http://www.out4pizza.com/
+4. Rafael Rozendaal — http://www.newrafael.com/
 
 —
 
