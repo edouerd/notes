@@ -40,6 +40,7 @@ Table of Contents (in no specfic order)
 - Symbol Codes — http://htmlarrows.com/
 - Code Guide — http://codeguide.co/
 - HTML/SEO — http://www.hugeinc.com/ideas/perspective/know-your-html5
+- Books for Web Devs — http://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/
 
 —
 
@@ -59,6 +60,7 @@ Table of Contents (in no specfic order)
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
 - Useful SASS Snippets — http://hmphry.com/useful-sass-mixins
+- SASS Variables — https://robots.thoughtbot.com/sass-variables
 - 30 CSS Selectors — http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 - CSS Specificity — http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
 - CSS Float Theory — http://www.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/
@@ -67,6 +69,7 @@ Table of Contents (in no specfic order)
 - Nesting Components — http://simurai.com/blog/2015/05/11/nesting-components/
 - SMACSS — https://smacss.com/
 - Spacing elements — http://simurai.com/blog/2014/05/25/spacing-elements/
+- Uses for calc() — https://css-tricks.com/a-couple-of-use-cases-for-calc/
 - Sizing Web Components — http://simurai.com/blog/2013/07/03/sizing-components/
 - Mixins vs. Extends — https://tech.bellycard.com/blog/sass-mixins-vs-extends-the-data/
 - When to use Extends/Mixins — http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/
