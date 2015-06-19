@@ -32,6 +32,8 @@ Table of Contents (in no specfic order)
 - Technical Development — https://www.google.com/about/careers/students/guide-to-technical-development.html
 - North — http://pointnorth.io/
 - Jekyll Tips* — http://jekyll.tips/
+- Silicon Valley History — http://patrickcollison.com/svhistory
+- Worrydream's .pdfs — http://worrydream.com/refs/
 
 —
 
@@ -57,10 +59,13 @@ Table of Contents (in no specfic order)
 - BEM + SASS — https://medium.com/@andersonorui_/bem-sass-and-bootstrap-9f89dc07d20f
 - BEM for UX — http://simurai.com/blog/2013/10/24/BEM-syntax-with-ux-in-mind/
 - OOCSS + Sass - http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
+- End of Global CSS — https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
+- SASS Documentation — http://sass-lang.com/documentation/
 - Useful SASS Snippets — http://hmphry.com/useful-sass-mixins
 - SASS Variables — https://robots.thoughtbot.com/sass-variables
+- SASS, Thoughtbot tags — https://robots.thoughtbot.com/tags/sass
 - 30 CSS Selectors — http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 - CSS Specificity — http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
 - CSS Float Theory — http://www.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/
@@ -74,7 +79,9 @@ Table of Contents (in no specfic order)
 - Mixins vs. Extends — https://tech.bellycard.com/blog/sass-mixins-vs-extends-the-data/
 - When to use Extends/Mixins — http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/
 - CSS Hacks — http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/
+- :visited — http://joelcalifa.com/blog/revisiting-visited/
 - CSS Greyscale — http://www.karlhorky.com/2012/06/cross-browser-image-grayscale-with-css.html
+- Thoughts on CSS (Simurai) — http://simurai.com/
 
 —
 
