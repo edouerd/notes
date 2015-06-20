@@ -1,12 +1,8 @@
-emoji shit
+:sparkles: My Emoji
 
 —
 
 ```
-
-✨ emoji
-
-- - -
 
        　∠＼ 　　＊ +
 　　＿|＿ヽ＿
