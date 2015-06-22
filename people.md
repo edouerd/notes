@@ -25,6 +25,7 @@ Design
 6. Heesun Seo — http://hxx.kr/about/
 7. Michael Oswell — http://thusly.tumblr.com/
 6. Ines Cox — http://inescox.com/
+7. Harry Gassel — http://eeshirtay.com/
 5. Dan Eden — http://daneden.me/ • https://github.com/daneden/daneden.me
 6. Eric Hu — http://erichu.info/ • https://github.com/er1chu/EricHu.info
 7. Kevin Schaefer — http://kjschaef.com/
