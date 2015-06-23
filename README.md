@@ -4,13 +4,14 @@ Notes
 
 Content
 
-1. [édouard.md](https://github.com/edouerd/notes/blob/gh-pages/edouard.md) — for doxers (jk lol, just a listing of my accounts)
-2. [help.md](https://github.com/edouerd/notes/blob/gh-pages/help.md) — learning links for self-development
-3. [internet.md](https://github.com/edouerd/notes/blob/gh-pages/internet.md) — internet entities I keep tabs on
-4. [people.md](https://github.com/edouerd/notes/blob/gh-pages/people.md) — people I care about, respect, copy, etc.
-5. [ascii.md](https://github.com/edouerd/notes/blob/gh-pages/ascii.md) — Collection of found/made ASCII art.
-6. [books.md](https://github.com/edouerd/notes/blob/gh-pages/books.md) — Books and Reviews, scratchpad for 'Shelf Shelf'.
-7. [emoji.md](https://github.com/edouerd/notes/blob/gh-pages/emoji.md) — Like ascii.md, but a little crazier.
+1. [ascii.md](https://github.com/edouerd/notes/blob/gh-pages/ascii.md) — Collection of found/made ASCII art.
+2. [books.md](https://github.com/edouerd/notes/blob/gh-pages/books.md) — Books and Reviews, scratchpad for 'Shelf Shelf'.
+3. [édouard.md](https://github.com/edouerd/notes/blob/gh-pages/edouard.md) — for doxers (jk lol, just a listing of my accounts)
+4. [emoji.md](https://github.com/edouerd/notes/blob/gh-pages/emoji.md) — Like ascii.md, but a little crazier.
+5. [help.md](https://github.com/edouerd/notes/blob/gh-pages/help.md) — learning links for self-development
+6. [internet.md](https://github.com/edouerd/notes/blob/gh-pages/internet.md) — internet entities I keep tabs on
+7. [people.md](https://github.com/edouerd/notes/blob/gh-pages/people.md) — people I care about, respect, copy, etc.
+
 
 —
 
