@@ -203,3 +203,7 @@ Table of Contents (in no specfic order)
 ##### iOS/OSX
 
 - Swift State Machine — http://macoscope.com/blog/swifty-state-machine/
+- OSX/iOS Fonts — https://developer.apple.com/fonts/
+- Free Dev Resources — https://developer.apple.com/resources/
+- Learn Swift Github — http://swifteducation.github.io/teaching_app_development_with_swift/
+- Learn Swift Github — https://github.com/swifteducation
