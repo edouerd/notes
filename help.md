@@ -101,6 +101,7 @@ Table of Contents (in no specfic order)
 - Javascript Graphs — http://www.jsgraphs.com/
 - Sparklines — http://prag.ma/code/sparky/
 - Animation Library — http://famous.org/
+- Easy Paper.js — http://andyshora.com/easy-paper-js-tutorial.html
 
 —
 
