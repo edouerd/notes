@@ -119,6 +119,8 @@ Table of Contents (in no specfic order)
 - Viewport — http://sarasoueidan.com/blog/svg-coordinate-systems/
 - Fallbacks — https://css-tricks.com/a-complete-guide-to-svg-fallbacks/?utm_source=dlvr.it&utm_medium=twitter
 - Pocket Guide to SVG — http://svgpocketguide.com/book/
+- SVG on the Web — https://svgontheweb.com/
+- SVG Spritesheets — http://blog.teamtreehouse.com/create-svg-sprite-sheet
 
 —
 
@@ -182,6 +184,8 @@ Table of Contents (in no specfic order)
 
 - VW Unit Calculator — http://emilolsson.com/tools/vw-unit-calc-an-online-responsive-css-font-size-calculator/
 - Faster Font Loading — https://jonsuh.com/blog/font-loading-with-font-events/
+- Font-Feature Settings — https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings
+- Practial Typography — http://practicaltypography.com/
 
 —
 
@@ -204,7 +208,9 @@ Table of Contents (in no specfic order)
 ##### iOS/OSX
 
 - Swift State Machine — http://macoscope.com/blog/swifty-state-machine/
+- Design + Code — https://designcode.io/chapters
 - OSX/iOS Fonts — https://developer.apple.com/fonts/
 - Free Dev Resources — https://developer.apple.com/resources/
 - Learn Swift Github — http://swifteducation.github.io/teaching_app_development_with_swift/
 - Learn Swift Github — https://github.com/swifteducation
+- Obj C for designers — https://medium.com/@tarngerine/designers-you-can-objective-c-too-7f493cdfa381
