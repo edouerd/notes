@@ -14,16 +14,17 @@ Table of Contents (in no specfic order)
 3. [Javascript](#javascript)
 4. [3D](#3d)
 5. [SVG](#svg)
-6. [Data Visualization](#data-visualization)
-7. [Security](#security)
-8. [Performance](#performance)
-9. [Git](#git)
-10. [Patterns](#patterns)
-11. [Typography](#typography)
-12. [Command Line](#command-line)
-13. [Task Managers](#task-managers)
-14. [Text Editing](#text-editing)
-15. [iOS/OSX](#iososx)
+6. [Animation](#animation)
+7. [Data Visualization](#data-visualization)
+8. [Security](#security)
+9. [Performance](#performance)
+10. [Git](#git)
+11. [Patterns](#patterns)
+12. [Typography](#typography)
+13. [Command Line](#command-line)
+14. [Task Managers](#task-managers)
+15. [Text Editing](#text-editing)
+16. [iOS/OSX](#iososx)
 
 —
 
@@ -84,6 +85,7 @@ Table of Contents (in no specfic order)
 - CSS Hacks — http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/
 - :visited — http://joelcalifa.com/blog/revisiting-visited/
 - CSS Greyscale — http://www.karlhorky.com/2012/06/cross-browser-image-grayscale-with-css.html
+- Purify CSS — https://github.com/purifycss/purifycss?utm_medium=email&utm_source=jsfiddle
 - Thoughts on CSS (Simurai) — http://simurai.com/
 - Do we even need CSS Anymore — https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/
 - Simple Responsive CSS Grid — http://chrisnager.github.io/ungrid/
@@ -92,12 +94,15 @@ Table of Contents (in no specfic order)
 
 ##### Javascript
 
+- Javascript.com — https://www.javascript.com/
 - Learn Javascript Resources — http://frontenddeveloperjob.com/learn-javascript/
 - Learn Javascript Book — http://gitbookio.gitbooks.io/javascript/content/en/index.html
 - Functional Programming in Javascript — http://jhusain.github.io/learnrx/
 - Unveil.js — http://luis-almeida.github.io/unveil/
 - Lazyload — http://www.appelsiini.net/projects/lazyload
 - Layzr.js — http://callmecavs.github.io/layzr.js/
+- Vibrant.js — https://github.com/jariz/vibrant.js/
+- Gradify.js — https://github.com/fraser-hemp/gradify
 - React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
 - React Resources — https://github.com/enaqx/awesome-react
 - React Native — http://blog.typework.com/react-native-universal/
@@ -135,6 +140,7 @@ Table of Contents (in no specfic order)
 
 - Animate.css — http://daneden.github.io/animate.css/
 - Velocity.js — http://julian.com/research/velocity/
+- Dynamics.js — http://dynamicsjs.com/
 - Snabbt — http://daniel-lundin.github.io/snabbt.js/
 - Bounce.js — http://bouncejs.com/
 - Rebound — http://facebook.github.io/rebound-js/docs/rebound.html
