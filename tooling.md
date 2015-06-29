@@ -8,8 +8,8 @@ Digital Toolbox.
 
 Table of Contents
 
-1. [Web Development](web-development)
-2. [Prototyping](prototyping)
+1. [Web Development](#web-development)
+2. [Prototyping](#prototyping)
 
 —
 
@@ -18,7 +18,6 @@ Table of Contents
 - VPN Hosting — https://www.linode.com/
 - Dynamic/Responsive Image CDN — https://www.imgix.com/
 - Version Control Software (lol) — https://github.com/edouerd
-- 
 
 ##### Prototyping
 
