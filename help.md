@@ -21,8 +21,9 @@ Table of Contents (in no specfic order)
 10. [Patterns](#patterns)
 11. [Typography](#typography)
 12. [Command Line](#command-line)
-13. [Text Editing](#text-editing)
-14. [iOS/OSX](#iososx)
+13. [Task Managers](#task-managers)
+14. [Text Editing](#text-editing)
+15. [iOS/OSX](#iososx)
 
 —
 
@@ -202,6 +203,12 @@ Table of Contents (in no specfic order)
 - Commands II — https://quickleft.com/blog/command-line-tutorials-summary-what-s-next/
 - The Unix Command Line — https://leanpub.com/just-enough-unix-command-line
 - Una: Embrace the Terminal — http://una.im/embrace-the-terminal/#💁
+
+—
+
+##### Task Managers
+
+- Getting Started with Gulp — https://travismaynard.com/writing/getting-started-with-gulp
 
 —
 
