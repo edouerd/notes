@@ -62,10 +62,12 @@ Table of Contents (in no specfic order)
 - End of Global CSS — https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
-- SASS Documentation — http://sass-lang.com/documentation/
-- Useful SASS Snippets — http://hmphry.com/useful-sass-mixins
-- SASS Variables — https://robots.thoughtbot.com/sass-variables
-- SASS, Thoughtbot tags — https://robots.thoughtbot.com/tags/sass
+- Sass Documentation — http://sass-lang.com/documentation/
+- Useful Sass Snippets — http://hmphry.com/useful-sass-mixins
+- Sass Variables — https://robots.thoughtbot.com/sass-variables
+- Sass, Thoughtbot tags — https://robots.thoughtbot.com/tags/sass
+- Better CSS with Sass — http://www.fivesimplesteps.com/products/better-css-with-sass
+- Sass Reference — http://www.sitepoint.com/sass-reference/
 - 30 CSS Selectors — http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 - CSS Specificity — http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
 - CSS Float Theory — http://www.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/
@@ -82,6 +84,8 @@ Table of Contents (in no specfic order)
 - :visited — http://joelcalifa.com/blog/revisiting-visited/
 - CSS Greyscale — http://www.karlhorky.com/2012/06/cross-browser-image-grayscale-with-css.html
 - Thoughts on CSS (Simurai) — http://simurai.com/
+- Do we even need CSS Anymore — https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/
+- Simple Responsive CSS Grid — http://chrisnager.github.io/ungrid/
 
 —
 
@@ -110,6 +114,7 @@ Table of Contents (in no specfic order)
 - Display multiple models — http://stackoverflow.com/questions/24931070/display-several-times-the-same-3d-object-with-three-js
 - Three.js model viewer — http://www.radiatedpixel.com/wordpress/2013/03/27/webgl-3d-model-viewer-using-three-js/
 - Display 3D models — http://blender.freemovies.co.uk/displaying-3d-models-in-web-pages-using-webgl/
+- Facebook & VR — https://medium.com/facebook-design/a-month-designing-in-vr-62474aef1f1c
 
 —
 
@@ -186,6 +191,8 @@ Table of Contents (in no specfic order)
 - Faster Font Loading — https://jonsuh.com/blog/font-loading-with-font-events/
 - Font-Feature Settings — https://developer.mozilla.org/en-US/docs/Web/CSS/font-feature-settings
 - Practial Typography — http://practicaltypography.com/
+- Professional Web Typography — https://prowebtype.com/
+- Fontology — http://www.fonts.com/content/learning/fontology
 
 —
 
@@ -202,6 +209,7 @@ Table of Contents (in no specfic order)
 
 - Why Vim — http://www.reddit.com/r/ProgrammerHumor/comments/338tx5/vim/cqiyma2
 - Vim Text Objects — http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
+- Vim Books — http://iccf-holland.org/click5.html
 
 —
 
