@@ -11,6 +11,7 @@ Content
 5. [help.md](https://github.com/edouerd/notes/blob/gh-pages/help.md) — learning links for self-development
 6. [internet.md](https://github.com/edouerd/notes/blob/gh-pages/internet.md) — internet entities I keep tabs on
 7. [people.md](https://github.com/edouerd/notes/blob/gh-pages/people.md) — people I care about, respect, copy, etc.
+8. [tooling.md](https://github.com/edouerd/notes/blob/gh-pages/tooling.md) — A digital toolbox. Stuff I use!
 
 
 —
