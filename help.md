@@ -65,6 +65,7 @@ Table of Contents (in no specfic order)
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
 - Sass Documentation — http://sass-lang.com/documentation/
+- Sass Project Structure — http://thesassway.com/beginner/how-to-structure-a-sass-project
 - Useful Sass Snippets — http://hmphry.com/useful-sass-mixins
 - Sass Variables — https://robots.thoughtbot.com/sass-variables
 - Sass, Thoughtbot tags — https://robots.thoughtbot.com/tags/sass
