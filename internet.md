@@ -26,6 +26,9 @@ A collection of movements, entities, organizations, etc.
 2. Lineto — http://lineto.com/
 3. Pagan and Sharp — http://paganandsharp.com/
 4. Millieu Grotesque — http://www.milieugrotesque.com/
+5. Klim Type Foundry — https://klim.co.nz/
+6. Commercial Type — http://commercialtype.com/
+7. Christian Schwartz — http://christianschwartz.com/
 
 ##### Favorite Websites
 
