@@ -45,6 +45,7 @@ Table of Contents (in no specfic order)
 - Code Guide — http://codeguide.co/
 - HTML/SEO — http://www.hugeinc.com/ideas/perspective/know-your-html5
 - Books for Web Devs — http://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/
+- Semantic HTML Sections — http://www.smashingmagazine.com/2013/01/18/the-importance-of-sections/
 
 —
 
@@ -60,6 +61,7 @@ Table of Contents (in no specfic order)
 - BEMCSS Definitions — https://en.bem.info/method/definitions/
 - BEM + SASS — https://medium.com/@andersonorui_/bem-sass-and-bootstrap-9f89dc07d20f
 - BEM for UX — http://simurai.com/blog/2013/10/24/BEM-syntax-with-ux-in-mind/
+- Small Project BEM — http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/
 - OOCSS + Sass - http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
 - End of Global CSS — https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
 - CSS Guidelines — http://cssguidelin.es/
