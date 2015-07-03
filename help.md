@@ -25,6 +25,7 @@ Table of Contents (in no specfic order)
 14. [Task Managers](#task-managers)
 15. [Text Editing](#text-editing)
 16. [iOS/OSX](#iososx)
+17. [Unix](#unix)
 
 —
 
@@ -240,3 +241,10 @@ Table of Contents (in no specfic order)
 - Learn Swift Github — http://swifteducation.github.io/teaching_app_development_with_swift/
 - Learn Swift Github — https://github.com/swifteducation
 - Obj C for designers — https://medium.com/@tarngerine/designers-you-can-objective-c-too-7f493cdfa381
+
+—
+
+##### Unix
+
+- Set Capslock to Control Key — http://askubuntu.com/questions/149971/how-do-you-remap-a-key-to-the-caps-lock-key-in-xubuntu
+- Set default terminal emulator — http://www.howtogeek.com/howto/ubuntu/set-the-default-terminal-emulator-on-ubuntu-linux/
