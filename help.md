@@ -118,6 +118,7 @@ Table of Contents (in no specfic order)
 - Sparklines — http://prag.ma/code/sparky/
 - Animation Library — http://famous.org/
 - Easy Paper.js — http://andyshora.com/easy-paper-js-tutorial.html
+- Javascript the Right Way — https://github.com/braziljs/js-the-right-way
 
 —
 
@@ -215,6 +216,7 @@ Table of Contents (in no specfic order)
 - Commands II — https://quickleft.com/blog/command-line-tutorials-summary-what-s-next/
 - The Unix Command Line — https://leanpub.com/just-enough-unix-command-line
 - Una: Embrace the Terminal — http://una.im/embrace-the-terminal/#💁
+- Art of the Command Line — https://github.com/jlevy/the-art-of-command-line
 
 —
 
