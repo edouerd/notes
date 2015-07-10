@@ -37,6 +37,7 @@ Table of Contents (in no specfic order)
 - Jekyll Tips* — http://jekyll.tips/
 - Silicon Valley History — http://patrickcollison.com/svhistory
 - Worrydream's .pdfs — http://worrydream.com/refs/
+- Device Metrics — http://www.google.com/design/tool/devices/
 
 —
 
