@@ -112,6 +112,7 @@ Table of Contents (in no specfic order)
 - React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
 - React Resources — https://github.com/enaqx/awesome-react
 - React Native — http://blog.typework.com/react-native-universal/
+- React for Designers — http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 - Icons w/ JS and React — http://jxnblk.com/react-icons/
 - Webapps w/ plain js — http://plainjs.com/
 - You might not need jQuery — http://youmightnotneedjquery.com/
@@ -218,6 +219,7 @@ Table of Contents (in no specfic order)
 - The Unix Command Line — https://leanpub.com/just-enough-unix-command-line
 - Una: Embrace the Terminal — http://una.im/embrace-the-terminal/#💁
 - Art of the Command Line — https://github.com/jlevy/the-art-of-command-line
+- iTerm Shell integration — https://iterm2.com/shell_integration.html
 
 —
 
