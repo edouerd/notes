@@ -31,8 +31,11 @@ A collection of movements, entities, organizations, etc.
 5. Klim Type Foundry — https://klim.co.nz/
 6. Commercial Type — http://commercialtype.com/
 7. Christian Schwartz — http://christianschwartz.com/
+8. Libre Foundries (OS) — https://github.com/raphaelbastide/libre-foundries
+9. Interstices (OS) — https://github.com/Interstices-
 8. Claus Eggers Sørensen (OS) — https://github.com/clauseggers
 9. Wei H. (OS) — https://github.com/weiweihuanghuang
+10. Sebastien Sanfilippo — https://github.com/sebsan
 
 ##### Favorite Websites
 
