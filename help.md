@@ -137,6 +137,9 @@ Table of Contents (in no specfic order)
 
 ##### Audio
 - Working with WebAudio — https://github.com/meandavejustice/web-audio-modules
+- Soundcloud Visualizer — https://github.com/michaelbromley/soundcloud-visualizer
+- HTML5 Audio Visualizer — https://github.com/wayou/HTML5_Audio_Visualizer
+- ThreeAudio.js — https://github.com/unconed/ThreeAudio.js
 
 —
 
@@ -216,6 +219,8 @@ Table of Contents (in no specfic order)
 - Practial Typography — http://practicaltypography.com/
 - Professional Web Typography — https://prowebtype.com/
 - Fontology — http://www.fonts.com/content/learning/fontology
+- Font Bakery — https://github.com/googlefonts/fontbakery
+- Git for Type Designers — https://github.com/frankrolf/git-for-type-designers
 
 —
 
