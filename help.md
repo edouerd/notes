@@ -101,6 +101,7 @@ Table of Contents (in no specfic order)
 
 - Javascript.com — https://www.javascript.com/
 - Learn Javascript Resources — http://frontenddeveloperjob.com/learn-javascript/
+- Essential Javascript Links — https://github.com/ericelliott/essential-javascript-links
 - Learn Javascript Book — http://gitbookio.gitbooks.io/javascript/content/en/index.html
 - Functional Programming in Javascript — http://jhusain.github.io/learnrx/
 - You don't Kno Javascript — https://github.com/getify/You-Dont-Know-JS
