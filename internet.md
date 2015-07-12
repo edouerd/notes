@@ -31,6 +31,8 @@ A collection of movements, entities, organizations, etc.
 5. Klim Type Foundry — https://klim.co.nz/
 6. Commercial Type — http://commercialtype.com/
 7. Christian Schwartz — http://christianschwartz.com/
+8. Claus Eggers Sørensen (OS) — https://github.com/clauseggers
+9. Wei H. (OS) — https://github.com/weiweihuanghuang
 
 ##### Favorite Websites
 
