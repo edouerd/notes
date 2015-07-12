@@ -13,6 +13,7 @@ Table of Contents (in no specfic order)
 2. [CSS](#css)
 3. [Javascript](#javascript)
 4. [3D](#3d)
+5. [Audio](#audio)
 5. [SVG](#svg)
 6. [Animation](#animation)
 7. [Data Visualization](#data-visualization)
@@ -131,6 +132,11 @@ Table of Contents (in no specfic order)
 - Three.js model viewer — http://www.radiatedpixel.com/wordpress/2013/03/27/webgl-3d-model-viewer-using-three-js/
 - Display 3D models — http://blender.freemovies.co.uk/displaying-3d-models-in-web-pages-using-webgl/
 - Facebook & VR — https://medium.com/facebook-design/a-month-designing-in-vr-62474aef1f1c
+
+—
+
+##### Audio
+- Working with WebAudio — https://github.com/meandavejustice/web-audio-modules
 
 —
 
