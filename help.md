@@ -105,6 +105,7 @@ Table of Contents (in no specfic order)
 - Essential Javascript Links — https://github.com/ericelliott/essential-javascript-links
 - Learn Javascript Book — http://gitbookio.gitbooks.io/javascript/content/en/index.html
 - Functional Programming in Javascript — http://jhusain.github.io/learnrx/
+- Mostly Adequate Guide to FP in JS — https://github.com/DrBoolean/mostly-adequate-guide
 - You don't Kno Javascript — https://github.com/getify/You-Dont-Know-JS
 - Unveil.js — http://luis-almeida.github.io/unveil/
 - Lazyload — http://www.appelsiini.net/projects/lazyload
