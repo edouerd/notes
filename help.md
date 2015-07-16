@@ -66,6 +66,7 @@ Table of Contents (in no specfic order)
 - BEM for UX — http://simurai.com/blog/2013/10/24/BEM-syntax-with-ux-in-mind/
 - Small Project BEM — http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/
 - OOCSS + Sass - http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
+- Atomic oobemitscss — http://www.sitepoint.com/atomic-oobemitscss/
 - End of Global CSS — https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
@@ -200,6 +201,7 @@ Table of Contents (in no specfic order)
 - First-Aid Git — http://firstaidgit.io/#/
 - Git-based Project Proposals — http://www.lacroixdesign.net/blog/streamlining-our-proposal-writing-process/
 - Syncing two Repositories — https://github.com/gjtorikian/repository-sync
+- Git Flow — https://guides.github.com/introduction/flow/
 
 —
 
@@ -223,6 +225,7 @@ Table of Contents (in no specfic order)
 - Fontology — http://www.fonts.com/content/learning/fontology
 - Font Bakery — https://github.com/googlefonts/fontbakery
 - Git for Type Designers — https://github.com/frankrolf/git-for-type-designers
+- Efficient Typography — http://kennethormandy.com/journal/efficient-web-type-circa-1556
 
 —
 
