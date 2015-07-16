@@ -41,3 +41,5 @@ A collection of movements, entities, organizations, etc.
 ##### Favorite Websites
 
 0. http://infinite.selftitled.de/
+1. http://juliakimsmith.com/
+2. http://yaleinteractivedesign.com/
