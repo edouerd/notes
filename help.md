@@ -105,6 +105,7 @@ Table of Contents (in no specfic order)
 - Javascript.com — https://www.javascript.com/
 - Learn Javascript Resources — http://frontenddeveloperjob.com/learn-javascript/
 - Essential Javascript Links — https://github.com/ericelliott/essential-javascript-links
+- Javascript Quality Guide — https://github.com/bevacqua/js
 - Learn Javascript Book — http://gitbookio.gitbooks.io/javascript/content/en/index.html
 - Functional Programming in Javascript — http://jhusain.github.io/learnrx/
 - Mostly Adequate Guide to FP in JS — https://github.com/DrBoolean/mostly-adequate-guide
@@ -135,6 +136,7 @@ Table of Contents (in no specfic order)
 - Three.js model viewer — http://www.radiatedpixel.com/wordpress/2013/03/27/webgl-3d-model-viewer-using-three-js/
 - Display 3D models — http://blender.freemovies.co.uk/displaying-3d-models-in-web-pages-using-webgl/
 - Facebook & VR — https://medium.com/facebook-design/a-month-designing-in-vr-62474aef1f1c
+- OpenGL Resources Repo — https://github.com/eug/awesome-opengl
 
 —
 
