@@ -202,10 +202,11 @@ Table of Contents (in no specfic order)
 
 ##### Git
 
+- Git Flow — https://guides.github.com/introduction/flow/
 - First-Aid Git — http://firstaidgit.io/#/
 - Git-based Project Proposals — http://www.lacroixdesign.net/blog/streamlining-our-proposal-writing-process/
 - Syncing two Repositories — https://github.com/gjtorikian/repository-sync
-- Git Flow — https://guides.github.com/introduction/flow/
+- Sync multiple repositories — https://github.com/earwig/git-repo-updater
 
 —
 
