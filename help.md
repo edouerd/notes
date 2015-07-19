@@ -170,6 +170,7 @@ Table of Contents (in no specfic order)
 - CSS Animation Guide — https://ihatetomatoes.net/the-guide-to-css-animations-for-the-web/
 - Javascript Animation Guide — https://ihatetomatoes.net/the-guide-to-javascript-animations-for-the-web/
 - Una: SPA — http://una.im/spa/#💁
+- Perfecting a CSS Animation — https://subvisual.co/blog/posts/62-perfecting-a-css-3d-animation
 
 —
 
