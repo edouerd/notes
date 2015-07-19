@@ -228,6 +228,7 @@ Table of Contents (in no specfic order)
 - Font Bakery — https://github.com/googlefonts/fontbakery
 - Git for Type Designers — https://github.com/frankrolf/git-for-type-designers
 - Efficient Typography — http://kennethormandy.com/journal/efficient-web-type-circa-1556
+- Font Utils — https://github.com/twardoch/fonttools-utils
 
 —
 
