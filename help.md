@@ -190,6 +190,7 @@ Table of Contents (in no specfic order)
 ##### Security
 
 - OSX PGP Tutorial — http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/
+- Chat Encrypted — http://chatencrypted.com/
 
 —
 
