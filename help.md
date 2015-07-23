@@ -17,6 +17,7 @@ Table of Contents (in no specfic order)
 5. [SVG](#svg)
 6. [Animation](#animation)
 7. [Data Visualization](#data-visualization)
+8. [Prototyping](#prototyping)
 8. [Security](#security)
 9. [Performance](#performance)
 10. [Git](#git)
@@ -115,11 +116,14 @@ Table of Contents (in no specfic order)
 - Layzr.js — http://callmecavs.github.io/layzr.js/
 - Vibrant.js — https://github.com/jariz/vibrant.js/
 - Gradify.js — https://github.com/fraser-hemp/gradify
+- P5.js — http://p5js.org/gallery/
+- Two.js — https://jonobr1.github.io/two.js/
 - React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
 - React Resources — https://github.com/enaqx/awesome-react
 - React Native — http://blog.typework.com/react-native-universal/
 - React for Designers — http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 - Icons w/ JS and React — http://jxnblk.com/react-icons/
+- React Tutorial Builder — https://github.com/insin/react-lessons
 - Webapps w/ plain js — http://plainjs.com/
 - You might not need jQuery — http://youmightnotneedjquery.com/
 - Javascript Graphs — http://www.jsgraphs.com/
@@ -184,6 +188,13 @@ Table of Contents (in no specfic order)
 - Vis-á-Wik Tool — http://sdesabbata.github.io/vis-a-wik/
 - Highcharts — http://www.highcharts.com/
 - Intro to APIs — https://zapier.com/learn/apis/chapter-1-introduction-to-apis/
+
+—
+
+##### Prototyping
+
+- http://blog.parse.com/learn/using-parse-to-power-up-your-framer-prototypes-part-i/
+- https://medium.com/@gk3/give-your-framer-prototypes-a-better-memory-212b26e0f934
 
 —
 
