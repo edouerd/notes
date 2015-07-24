@@ -193,8 +193,8 @@ Table of Contents (in no specfic order)
 
 ##### Prototyping
 
-- http://blog.parse.com/learn/using-parse-to-power-up-your-framer-prototypes-part-i/
-- https://medium.com/@gk3/give-your-framer-prototypes-a-better-memory-212b26e0f934
+- Framer + Parse Part 1 — http://blog.parse.com/learn/using-parse-to-power-up-your-framer-prototypes-part-i/
+- Framer + Parse Part 2 — https://medium.com/@gk3/give-your-framer-prototypes-a-better-memory-212b26e0f934
 
 —
 
