@@ -16,7 +16,8 @@ Table of Contents
 6. [internet.md](https://github.com/edouerd/notes/blob/gh-pages/internet.md) — Internet entities/orgs I keep tabs on.
 7. [patterns.md](https://github.com/edouerd/notes/blob/gh-pages/patterns.md) — Digital design patterns.
 8. [people.md](https://github.com/edouerd/notes/blob/gh-pages/people.md) — People I care about, respect, copy, etc.
-9. [tooling.md](https://github.com/edouerd/notes/blob/gh-pages/tooling.md) — A digital toolbox. Stuff I use!
+9. [projects.md](https://github.com/edouerd/notes/blob/gh-pages/people.md) — In-development works, a backlog.
+10. [tooling.md](https://github.com/edouerd/notes/blob/gh-pages/tooling.md) — A digital toolbox. Stuff I use!
 
 —
 
