@@ -1,4 +1,0 @@
-notes
-=====
-
-Version-controlled Notebook.
