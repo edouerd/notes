@@ -57,6 +57,7 @@ Table of Contents (in no specfic order)
 
 - Attribute Selectors — https://css-tricks.com/attribute-selectors/
 - Flexbox Resource Collection — http://cssflexbox.com/
+- 20 videos on Flexbox — http://flexbox.io/#/
 - Solved by Flexbox — https://philipwalton.github.io/solved-by-flexbox/
 - ITCSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
 - BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
@@ -184,11 +185,13 @@ Table of Contents (in no specfic order)
 ##### Data Visualization
 
 - Closest Point on a Path — http://bl.ocks.org/mbostock/8027835
+- Voronoi Tessellation — http://bl.ocks.org/mbostock/4060366
 - Mapbox — https://www.mapbox.com/blog/mars-maps/
 - Vis-á-Wik — http://cii.oii.ox.ac.uk/vis-a-wik-a-visual-analytics-tool-for-wikipedia-analysis/
 - Vis-á-Wik Tool — http://sdesabbata.github.io/vis-a-wik/
 - Highcharts — http://www.highcharts.com/
 - Intro to APIs — https://zapier.com/learn/apis/chapter-1-introduction-to-apis/
+- Facebook Data Vis Design Process — https://medium.com/elegant-tools/designing-with-science-b33536e95f52
 
 —
 
