@@ -79,6 +79,7 @@ Table of Contents (in no specfic order)
 - Sass, Thoughtbot tags — https://robots.thoughtbot.com/tags/sass
 - Better CSS with Sass — http://www.fivesimplesteps.com/products/better-css-with-sass
 - Sass Reference — http://www.sitepoint.com/sass-reference/
+- Selector Nesting in Sass — http://www.sitepoint.com/beware-selector-nesting-sass/
 - 30 CSS Selectors — http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 - 12 Little known CSS Facts — http://www.sitepoint.com/12-little-known-css-facts-the-sequel/
 - CSS Specificity — http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
