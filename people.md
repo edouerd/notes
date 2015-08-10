@@ -35,6 +35,7 @@ People
 24. Stephanie Davidson — http://www.stephanie-davidson.com/
 25. Justin Edmund — http://www.jedmund.com/
 26. Johnathan Vingiano — http://jonathanvingiano.com/
+27. Hyun Kyu Seo — http://hyunkyu.com/
 0. John Lisle — http://johnelisle.com/
 1. Petra Cortright — http://www.petracortright.com/
 2. Sara Ludy — http://www.saraludy.com/
