@@ -36,6 +36,7 @@ People
 25. Justin Edmund — http://www.jedmund.com/
 26. Johnathan Vingiano — http://jonathanvingiano.com/
 27. Hyun Kyu Seo — http://hyunkyu.com/
+28. Chi-Long Trieu — http://trieu.ch/
 0. John Lisle — http://johnelisle.com/
 1. Petra Cortright — http://www.petracortright.com/
 2. Sara Ludy — http://www.saraludy.com/
