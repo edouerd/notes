@@ -57,6 +57,7 @@ Table of Contents (in no specfic order)
 
 - Attribute Selectors — https://css-tricks.com/attribute-selectors/
 - Flexbox Resource Collection — http://cssflexbox.com/
+- 20 videos on Flexbox — http://flexbox.io/#/
 - Solved by Flexbox — https://philipwalton.github.io/solved-by-flexbox/
 - ITCSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
 - BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
@@ -78,6 +79,7 @@ Table of Contents (in no specfic order)
 - Sass, Thoughtbot tags — https://robots.thoughtbot.com/tags/sass
 - Better CSS with Sass — http://www.fivesimplesteps.com/products/better-css-with-sass
 - Sass Reference — http://www.sitepoint.com/sass-reference/
+- Selector Nesting in Sass — http://www.sitepoint.com/beware-selector-nesting-sass/
 - 30 CSS Selectors — http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 - 12 Little known CSS Facts — http://www.sitepoint.com/12-little-known-css-facts-the-sequel/
 - CSS Specificity — http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
@@ -118,6 +120,7 @@ Table of Contents (in no specfic order)
 - Gradify.js — https://github.com/fraser-hemp/gradify
 - P5.js — http://p5js.org/gallery/
 - Two.js — https://jonobr1.github.io/two.js/
+- Textures.js — http://riccardoscalco.github.io/textures/
 - React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
 - React Resources — https://github.com/enaqx/awesome-react
 - React Native — http://blog.typework.com/react-native-universal/
@@ -183,16 +186,19 @@ Table of Contents (in no specfic order)
 ##### Data Visualization
 
 - Closest Point on a Path — http://bl.ocks.org/mbostock/8027835
+- Voronoi Tessellation — http://bl.ocks.org/mbostock/4060366
 - Mapbox — https://www.mapbox.com/blog/mars-maps/
 - Vis-á-Wik — http://cii.oii.ox.ac.uk/vis-a-wik-a-visual-analytics-tool-for-wikipedia-analysis/
 - Vis-á-Wik Tool — http://sdesabbata.github.io/vis-a-wik/
 - Highcharts — http://www.highcharts.com/
 - Intro to APIs — https://zapier.com/learn/apis/chapter-1-introduction-to-apis/
+- Facebook Data Vis Design Process — https://medium.com/elegant-tools/designing-with-science-b33536e95f52
 
 —
 
 ##### Prototyping
 
+- Task Flows — http://www.uxmatters.com/mt/archives/2015/03/tools-for-mobile-ux-design-task-flows.php
 - Framer + Parse Part 1 — http://blog.parse.com/learn/using-parse-to-power-up-your-framer-prototypes-part-i/
 - Framer + Parse Part 2 — https://medium.com/@gk3/give-your-framer-prototypes-a-better-memory-212b26e0f934
 
@@ -288,3 +294,4 @@ Table of Contents (in no specfic order)
 
 - Set Capslock to Control Key — http://askubuntu.com/questions/149971/how-do-you-remap-a-key-to-the-caps-lock-key-in-xubuntu
 - Set default terminal emulator — http://www.howtogeek.com/howto/ubuntu/set-the-default-terminal-emulator-on-ubuntu-linux/
+- How to Mirror a Website — http://www.boutell.com/newfaq/creating/mirroring.html

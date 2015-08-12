@@ -8,22 +8,11 @@ I've been getting caught up in my own projects spiderweb, this is a manual to he
 
 Table of Contents
 
-1. [Quotes](#quotes)
-2. [Index](#index)
-3. [Interventions](#interventions)
-4. [Home Goods](#home-goods)
-5. [Textbooking](#textbooking)
-7. [Website](#website)
-
-—
-
-##### Quotes
-
-> What makes this studio different is our direct manufacturing and distribution track record. We are at home in the complexity of international cultures and markets and offer product forecasting and proprietary design coaching. — shelter and roam
-
-> "The studio works to create products that perform on multiple levels, with a focus on research and intent. The constant ambition is to develop useful, mass market objects that exhibit an innovative simplicity which challenges traditional societal notions of value. Visibility works in product, spatial, and service design.— visibility.co"
-
-> "A machine desires instruction as a garden desires discipline”
+1. [Index](#index)
+2. [Interventions](#interventions)
+3. [Home Goods](#home-goods)
+4. [Textbooking](#textbooking)
+5. [Website](#website)
 
 —
 
@@ -59,6 +48,7 @@ Table of Contents
 - [ ] Home Goods — Watering Cactus
 - [ ] Home Goods — Måla Mount
 - [ ] Home Goods — Memory Card
+- [ ] Home Goods — Computer-less Website / Sampler
 
 —
 
