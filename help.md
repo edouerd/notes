@@ -59,6 +59,7 @@ Table of Contents (in no specfic order)
 - Flexbox Resource Collection — http://cssflexbox.com/
 - 20 videos on Flexbox — http://flexbox.io/#/
 - Solved by Flexbox — https://philipwalton.github.io/solved-by-flexbox/
+- 18 resources for learning flexbox — http://sixrevisions.com/css/learn-flexbox/
 - ITCSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
 - BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
 - BEM 101 — https://css-tricks.com/bem-101/
