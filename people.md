@@ -56,3 +56,4 @@ Studios
 4. Dallas — http://dallasdallas.xyz/
 5. Dowland — http://dowland.us/
 6. Yukiko — http://y-u-k-i-k-o.com/
+7. Beautiful Company — http://beautiful-company.com/
