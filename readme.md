@@ -8,17 +8,17 @@ Version-controlled Notebook.
 
 Table of Contents
 
-1. [ascii.md](https://github.com/edouerd/notes/blob/gh-pages/ascii.md) — Collection of found/made ASCII art.
-2. [books.md](https://github.com/edouerd/notes/blob/gh-pages/books.md) — Books and Reviews, scratchpad for 'Shelf Shelf'.
-3. [édouard.md](https://github.com/edouerd/notes/blob/gh-pages/edouard.md) — For doxers (jk lol, just a listing of my accounts)
-4. [emoji.md](https://github.com/edouerd/notes/blob/gh-pages/emoji.md) — Like ascii.md, but a little crazier.
-5. [help-hardware.md](https://github.com/edouerd/notes/blob/gh-pages/help-hardware.md) — Learning links for self-development.
-6. [help-software.md](https://github.com/edouerd/notes/blob/gh-pages/help-software.md) — Learning links for self-development.
-6. [internet.md](https://github.com/edouerd/notes/blob/gh-pages/internet.md) — Internet entities/orgs I keep tabs on.
-7. [patterns.md](https://github.com/edouerd/notes/blob/gh-pages/patterns.md) — Digital design patterns.
-8. [people.md](https://github.com/edouerd/notes/blob/gh-pages/people.md) — People I care about, respect, copy, etc.
-9. [projects.md](https://github.com/edouerd/notes/blob/gh-pages/projects.md) — In-development works, a backlog.
-10. [tooling.md](https://github.com/edouerd/notes/blob/gh-pages/tooling.md) — A digital toolbox. Stuff I use!
+1. [ascii.md](https://github.com/edouerd/notes/blob/master/ascii.md) — Collection of found/made ASCII art.
+2. [books.md](https://github.com/edouerd/notes/blob/master/books.md) — Books and Reviews, scratchpad for 'Shelf Shelf'.
+3. [édouard.md](https://github.com/edouerd/notes/blob/master/edouard.md) — For doxers (jk lol, just a listing of my accounts)
+4. [emoji.md](https://github.com/edouerd/notes/blob/master/emoji.md) — Like ascii.md, but a little crazier.
+5. [help-hardware.md](https://github.com/edouerd/notes/blob/master/help-hardware.md) — Learning links for self-development.
+6. [help-software.md](https://github.com/edouerd/notes/blob/master/help-software.md) — Learning links for self-development.
+6. [internet.md](https://github.com/edouerd/notes/blob/master/internet.md) — Internet entities/orgs I keep tabs on.
+7. [patterns.md](https://github.com/edouerd/notes/blob/master/patterns.md) — Digital design patterns.
+8. [people.md](https://github.com/edouerd/notes/blob/master/people.md) — People I care about, respect, copy, etc.
+9. [projects.md](https://github.com/edouerd/notes/blob/master/projects.md) — In-development works, a backlog.
+10. [tooling.md](https://github.com/edouerd/notes/blob/master/tooling.md) — A digital toolbox. Stuff I use!
 
 —
 
