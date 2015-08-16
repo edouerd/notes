@@ -44,6 +44,7 @@ People
 4. Johnny Negron — http://jonnynegron.tumblr.com/
 5. Laura Brothers — http://www.out4pizza.com/
 6. Rafael Rozendaal — http://www.newrafael.com/
+7. H. Faye Kahn — http://fayesgraphicshouse.com/index.html
 
 —
 
