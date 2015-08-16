@@ -40,6 +40,7 @@ Table of Contents (in no specfic order)
 - Silicon Valley History — http://patrickcollison.com/svhistory
 - Worrydream's .pdfs — http://worrydream.com/refs/
 - Device Metrics — http://www.google.com/design/tool/devices/
+- Language of Modular Design — http://alistapart.com/article/language-of-modular-design
 
 —
 
@@ -68,8 +69,9 @@ Table of Contents (in no specfic order)
 - BEM + SASS — https://medium.com/@andersonorui_/bem-sass-and-bootstrap-9f89dc07d20f
 - BEM for UX — http://simurai.com/blog/2013/10/24/BEM-syntax-with-ux-in-mind/
 - Small Project BEM — http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/
+- BEMIT — http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/?utm_source=designernews
 - OOCSS + Sass - http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
-- Atomic oobemitscss — http://www.sitepoint.com/atomic-oobemitscss/
+- Atomic OOBEMITSCSS — http://www.sitepoint.com/atomic-oobemitscss/
 - End of Global CSS — https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
