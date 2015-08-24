@@ -41,6 +41,7 @@ Table of Contents (in no specfic order)
 - Worrydream's .pdfs — http://worrydream.com/refs/
 - Device Metrics — http://www.google.com/design/tool/devices/
 - Language of Modular Design — http://alistapart.com/article/language-of-modular-design
+- Front End Resources — http://enboard.co/frontend/
 
 —
 
@@ -130,6 +131,7 @@ Table of Contents (in no specfic order)
 - React for Designers — http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 - Icons w/ JS and React — http://jxnblk.com/react-icons/
 - React Tutorial Builder — https://github.com/insin/react-lessons
+- Relay for Visual Learners — http://sgwilym.github.io/relay-visual-learners/
 - Webapps w/ plain js — http://plainjs.com/
 - You might not need jQuery — http://youmightnotneedjquery.com/
 - Javascript Graphs — http://www.jsgraphs.com/
@@ -253,6 +255,7 @@ Table of Contents (in no specfic order)
 - Git for Type Designers — https://github.com/frankrolf/git-for-type-designers
 - Efficient Typography — http://kennethormandy.com/journal/efficient-web-type-circa-1556
 - Font Utils — https://github.com/twardoch/fonttools-utils
+- Typography on the Web Resources — https://typographyontheweb.com/
 
 —
 
