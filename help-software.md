@@ -74,6 +74,7 @@ Table of Contents (in no specfic order)
 - OOCSS + Sass - http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
 - Atomic OOBEMITSCSS — http://www.sitepoint.com/atomic-oobemitscss/
 - End of Global CSS — https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
+- Naming Stuff in CSS is Hard — http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
 - Sass Documentation — http://sass-lang.com/documentation/
