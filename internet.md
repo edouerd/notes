@@ -20,6 +20,16 @@ A collection of movements, entities, organizations, etc.
 
 0. Catalogue — http://www.cataloguelibrary.co.uk/
 1. Traumawien — http://traumawien.at/
+2. Books From the Future — http://www.booksfromthefuture.info/
+3. Mousse Publishing — http://www.moussepublishing.com/
+4. Farewell Books — http://www.farewellbookstore.com/
+5. Draw Down Books — http://www.draw-down.com/
+6. Roma Publications — http://www.romapublications.org
+7. Open Editions — http://www.openeditions.com/
+8. Read-Only Memory — http://readonlymemory.vg/
+9. Occasional Papers — http://occasionalpapersshop.tictail.com
+10. Muumuu House — http://muumuuhouse.com/
+11. Inventory Press — http://www.inventorypress.com/
 
 ##### Foundries
 
