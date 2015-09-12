@@ -56,6 +56,7 @@ Table of Contents (in no specfic order)
 
 - Google Physical Web — http://google.github.io/physical-web/
 - Google Beacons (Eddystone) — https://developers.google.com/beacons/
+- Particle — https://www.particle.io/
 
 —
 
@@ -65,3 +66,4 @@ Table of Contents (in no specfic order)
 - Defense Distributed — https://defdist.org/dd-history/
 - OpenSCAD — http://www.openscad.org/
 - Generic Lab Tools — http://www.gaudi.ch/GaudiLabs/?page_id=328
+- Wifi Pocketbook — http://n-o-d-e.net/post/127931462536/how-to-create-a-wifi-pocket-book-pirate-box
