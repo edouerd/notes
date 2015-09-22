@@ -295,6 +295,7 @@ Table of Contents (in no specfic order)
 - Learn Swift Github — http://swifteducation.github.io/teaching_app_development_with_swift/
 - Learn Swift Github — https://github.com/swifteducation
 - Obj C for designers — https://medium.com/@tarngerine/designers-you-can-objective-c-too-7f493cdfa381
+- Using Github with Xcode 6 — https://medium.com/@0xben/using-github-with-xcode-6-8208b92c7a60
 
 —
 
