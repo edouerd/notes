@@ -159,6 +159,7 @@ Table of Contents (in no specfic order)
 - Soundcloud Visualizer — https://github.com/michaelbromley/soundcloud-visualizer
 - HTML5 Audio Visualizer — https://github.com/wayou/HTML5_Audio_Visualizer
 - ThreeAudio.js — https://github.com/unconed/ThreeAudio.js
+- Curated list of WebAudio resources — https://github.com/notthetup/awesome-webaudio
 
 —
 
@@ -222,6 +223,10 @@ Table of Contents (in no specfic order)
 
 - Slides by Una — http://una.im/slides-nom-nom-perf/#/
 - Wicked Fast Websites — http://gomakethings.com/wicked-fast-websites/
+- Guide to Performant Design — http://seesparkbox.com/foundry/beginners_guide_to_performant_design_decisions
+- Resrc.it Optimization Options — https://www.resrc.it/docs/optimize
+- Resrc.it Quickstart Guide — https://www.resrc.it/docs
+- Font loading with Font Events — https://jonsuh.com/blog/font-loading-with-font-events/
 
 —
 
