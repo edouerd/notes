@@ -42,6 +42,7 @@ Table of Contents (in no specfic order)
 - Device Metrics — http://www.google.com/design/tool/devices/
 - Language of Modular Design — http://alistapart.com/article/language-of-modular-design
 - Front End Resources — http://enboard.co/frontend/
+- Front-End Handbook — https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html
 
 —
 
