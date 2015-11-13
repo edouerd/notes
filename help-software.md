@@ -102,6 +102,7 @@ Table of Contents (in no specfic order)
 - When to use Extends/Mixins — http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/
 - CSS Hacks — http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/
 - :visited — http://joelcalifa.com/blog/revisiting-visited/
+- Quantity Queries — http://www.tomango.co.uk/thinks/using-quantity-queries-to-write-content-aware-css/
 - CSS Greyscale — http://www.karlhorky.com/2012/06/cross-browser-image-grayscale-with-css.html
 - Purify CSS — https://github.com/purifycss/purifycss?utm_medium=email&utm_source=jsfiddle
 - Thoughts on CSS (Simurai) — http://simurai.com/
@@ -229,6 +230,13 @@ Table of Contents (in no specfic order)
 - Resrc.it Optimization Options — https://www.resrc.it/docs/optimize
 - Resrc.it Quickstart Guide — https://www.resrc.it/docs
 - Font loading with Font Events — https://jonsuh.com/blog/font-loading-with-font-events/
+- Ludicrously Fast Page Loads — http://www.nateberkopec.com/2015/10/07/frontend-performance-chrome-timeline.html
+- Base64 Font URI — http://sosweetcreative.com/2613/font-face-and-base64-data-uri
+- Sam Richard Method — https://github.com/Snugug/blog • https://github.com/Snugug/blog/blob/master/templates/_index.html#L17-L58
+- Flash of Faux Text — http://www.zachleat.com/web/foft/
+- Font Events — https://www.filamentgroup.com/lab/font-events.html
+- Load CSS — https://github.com/filamentgroup/loadCSS
+- Better @font face with font load events — https://dev.opera.com/articles/better-font-face/
 
 —
 
@@ -276,12 +284,14 @@ Table of Contents (in no specfic order)
 - Una: Embrace the Terminal — http://una.im/embrace-the-terminal/#💁
 - Art of the Command Line — https://github.com/jlevy/the-art-of-command-line
 - iTerm Shell integration — https://iterm2.com/shell_integration.html
+- iTerm Window Mgmt — http://chris-schmitz.com/develop-faster-with-iterm-profiles-and-window-arrangements/
 
 —
 
 ##### Task Managers
 
 - Getting Started with Gulp — https://travismaynard.com/writing/getting-started-with-gulp
+- Are.na: Gulp — https://www.are.na/morgan-sutherland/gulp-js
 
 —
 
