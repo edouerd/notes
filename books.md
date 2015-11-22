@@ -6,6 +6,12 @@ Basically Good Reads.
 
 —
 
+##### Libraries
+
+- check out friends — https://www.goodreads.com/edouard
+- http://patrickcollison.com/bookshelf
+- http://daneden.me/books/
+
 ##### Books
 
 ##### Essays
