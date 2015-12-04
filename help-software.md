@@ -257,6 +257,7 @@ Table of Contents (in no specfic order)
 - Gitbook + Slack — https://www.gitbook.com/blog/features/slack • https://github.com/GitbookIO/services-slack
 - Codepen in Gitbook — http://read.lingyu.wang/Codepen.html
 - Gitbook — https://github.com/GitbookIO/gitbook#output-formats
+- Kevin S. Gitbook — https://kevinsuttle.gitbooks.io/demo/content/
 
 —
 
