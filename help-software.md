@@ -254,6 +254,9 @@ Table of Contents (in no specfic order)
 - Git-based Project Proposals — http://www.lacroixdesign.net/blog/streamlining-our-proposal-writing-process/
 - Syncing two Repositories — https://github.com/gjtorikian/repository-sync
 - Sync multiple repositories — https://github.com/earwig/git-repo-updater
+- Gitbook + Slack — https://www.gitbook.com/blog/features/slack • https://github.com/GitbookIO/services-slack
+- Codepen in Gitbook — http://read.lingyu.wang/Codepen.html
+- Gitbook — https://github.com/GitbookIO/gitbook#output-formats
 
 —
 
