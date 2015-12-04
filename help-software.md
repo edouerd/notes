@@ -303,6 +303,7 @@ Table of Contents (in no specfic order)
 - Are.na: Gulp — https://www.are.na/morgan-sutherland/gulp-js
 - Webpack: How To — https://github.com/petehunt/webpack-howto
 - NPM Directives — http://artcommaco.de/post/116048060446/npm-directives
+- npm + Tonic — https://blog.tonicdev.com/2015/10/28/npm-plus-tonic.html
 
 —
 
