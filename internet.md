@@ -59,3 +59,16 @@ A collection of movements, entities, organizations, etc.
 3. http://fayesgraphicshouse.com/
 4. http://macbook.design/
 5. http://saraludy.com/
+
+##### Nice Personal Websites
+
+0. http://kjschaef.com/#home
+1. http://studio.harshpatel.com
+2. http://nejcprah.com/#5
+3. http://www.studio-set.com
+4. http://www.laurenthorson.com
+5. http://inescox.com
+6. http://goodthingny.com/#team
+7. http://www.i-n-t-e-r-f-a-c-e.org/library.html
+8. http://www.publishingasparttimepractice.se
+9. http://davidcole.me
