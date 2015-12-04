@@ -63,6 +63,8 @@ Table of Contents (in no specfic order)
 - 20 videos on Flexbox — http://flexbox.io/#/
 - Solved by Flexbox — https://philipwalton.github.io/solved-by-flexbox/
 - 18 resources for learning flexbox — http://sixrevisions.com/css/learn-flexbox/
+- Flexbox Grid Finesse — https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.cosd7q577
+- FLexbox Froggy — http://flexboxfroggy.com
 - ITCSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
 - BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
 - BEM 101 — https://css-tricks.com/bem-101/
@@ -129,6 +131,7 @@ Table of Contents (in no specfic order)
 - P5.js — http://p5js.org/gallery/
 - Two.js — https://jonobr1.github.io/two.js/
 - Textures.js — http://riccardoscalco.github.io/textures/
+- Ally.js — http://allyjs.io
 - React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
 - React Resources — https://github.com/enaqx/awesome-react
 - React Native — http://blog.typework.com/react-native-universal/
@@ -153,6 +156,7 @@ Table of Contents (in no specfic order)
 - Display 3D models — http://blender.freemovies.co.uk/displaying-3d-models-in-web-pages-using-webgl/
 - Facebook & VR — https://medium.com/facebook-design/a-month-designing-in-vr-62474aef1f1c
 - OpenGL Resources Repo — https://github.com/eug/awesome-opengl
+- GEtting Started w/ Unity — https://unity3d.com/learn/tutorials/projects/roll-a-ball/introduction?playlist=17141
 
 —
 
@@ -162,6 +166,7 @@ Table of Contents (in no specfic order)
 - HTML5 Audio Visualizer — https://github.com/wayou/HTML5_Audio_Visualizer
 - ThreeAudio.js — https://github.com/unconed/ThreeAudio.js
 - Curated list of WebAudio resources — https://github.com/notthetup/awesome-webaudio
+- Designing with Audio — http://www.smashingmagazine.com/2012/09/guidelines-for-designing-with-audio/
 
 —
 
@@ -183,8 +188,9 @@ Table of Contents (in no specfic order)
 - Dynamics.js — http://dynamicsjs.com/
 - Snabbt — http://daniel-lundin.github.io/snabbt.js/
 - Bounce.js — http://bouncejs.com/
-- Rebound — http://facebook.github.io/rebound-js/docs/rebound.html
+- Rebound.js — http://facebook.github.io/rebound-js/docs/rebound.html
 - Move.js — https://visionmedia.github.io/move.js/
+- Mo.js — http://mojs.io
 - Snap.svg — http://snapsvg.io/
 - CSS Animation Guide — https://ihatetomatoes.net/the-guide-to-css-animations-for-the-web/
 - Javascript Animation Guide — https://ihatetomatoes.net/the-guide-to-javascript-animations-for-the-web/
@@ -212,6 +218,7 @@ Table of Contents (in no specfic order)
 - Task Flows — http://www.uxmatters.com/mt/archives/2015/03/tools-for-mobile-ux-design-task-flows.php
 - Framer + Parse Part 1 — http://blog.parse.com/learn/using-parse-to-power-up-your-framer-prototypes-part-i/
 - Framer + Parse Part 2 — https://medium.com/@gk3/give-your-framer-prototypes-a-better-memory-212b26e0f934
+- Rapid Prototyping w/ Sketch/Framer/Gulp — http://www.darrinhenein.com/rapid-prototyping-part-one/
 
 —
 
@@ -273,6 +280,8 @@ Table of Contents (in no specfic order)
 - Efficient Typography — http://kennethormandy.com/journal/efficient-web-type-circa-1556
 - Font Utils — https://github.com/twardoch/fonttools-utils
 - Typography on the Web Resources — https://typographyontheweb.com/
+- Dynamic Masthead — http://www.westspacejournal.org.au/article/our-masthead/
+- Typeface Design Readings — http://typefacedesign.net/resources/preparation-for-incoming-matd-students/
 
 —
 
@@ -292,6 +301,8 @@ Table of Contents (in no specfic order)
 
 - Getting Started with Gulp — https://travismaynard.com/writing/getting-started-with-gulp
 - Are.na: Gulp — https://www.are.na/morgan-sutherland/gulp-js
+- Webpack: How To — https://github.com/petehunt/webpack-howto
+- NPM Directives — http://artcommaco.de/post/116048060446/npm-directives
 
 —
 
