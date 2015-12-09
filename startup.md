@@ -15,7 +15,7 @@ Index
 
 ##### Linux Environment
 
-Window Management and Input
+*Window Management and Input*
 
 Convert Unity (Ubuntu WM) into i3:
 http://walther.io/how-to-replace-unity-with-i3-window-manager-on-ubuntu-1204/
@@ -25,7 +25,7 @@ Re-map Caps Lock into Control (Ubuntu)
 http://askubuntu.com/questions/33774/how-do-i-remap-the-caps-lock-and-ctrl-keys
 http://ubuntuforums.org/showthread.php?t=1793250
 
-Command Line
+*Command Line*
 
 Set up default terminal emulator (Ubuntu)
 http://www.howtogeek.com/howto/ubuntu/set-the-default-terminal-emulator-on-ubuntu-linux/
@@ -36,7 +36,7 @@ https://robots.thoughtbot.com/a-tmux-crash-course
 Set up fish
 http://fishshell.com/docs/current/index.html
 
-Extras
+*Extras*
 
 Set up Nitrogen and have it maintain state in i3 .config:
 https://www.maketecheasier.com/nitrogen-a-background-setter-for-lightweight-desktop-manager/
