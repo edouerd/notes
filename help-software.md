@@ -103,6 +103,7 @@ Table of Contents (in no specfic order)
 - Mixins vs. Extends — https://tech.bellycard.com/blog/sass-mixins-vs-extends-the-data/
 - When to use Extends/Mixins — http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/
 - CSS Hacks — http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/
+- CSS Vertical Aligning — http://bitsofco.de/the-vertical-align-property/
 - :visited — http://joelcalifa.com/blog/revisiting-visited/
 - Quantity Queries — http://www.tomango.co.uk/thinks/using-quantity-queries-to-write-content-aware-css/
 - CSS Greyscale — http://www.karlhorky.com/2012/06/cross-browser-image-grayscale-with-css.html
