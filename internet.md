@@ -72,3 +72,4 @@ A collection of movements, entities, organizations, etc.
 7. http://www.i-n-t-e-r-f-a-c-e.org/library.html
 8. http://www.publishingasparttimepractice.se
 9. http://davidcole.me
+10. http://samskinner.net/
