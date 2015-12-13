@@ -354,5 +354,6 @@ Table of Contents (in no specfic order)
 
 ##### Bots
 
+- Best Bots - http://nymag.com/following/2015/11/12-weirdest-funniest-smartest-twitter-bots.html
 - Whistleblower Bot - https://github.com/mhgbrown/why-you-leave-me
 - Robo Kitty - https://github.com/rachelnicole/robokitty
