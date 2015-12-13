@@ -28,6 +28,7 @@ Table of Contents (in no specfic order)
 15. [Text Editing](#text-editing)
 16. [iOS/OSX](#iososx)
 17. [Unix](#unix)
+18. [Bots](#bots)
 
 —
 
@@ -43,6 +44,9 @@ Table of Contents (in no specfic order)
 - Language of Modular Design — http://alistapart.com/article/language-of-modular-design
 - Front End Resources — http://enboard.co/frontend/
 - Front-End Handbook — https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html
+- Regex Visualizer - https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24
+- Regex: Learn, Build, and Test - http://regexr.com/
+- MDN RegExp - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
 
 —
 
@@ -53,6 +57,7 @@ Table of Contents (in no specfic order)
 - HTML/SEO — http://www.hugeinc.com/ideas/perspective/know-your-html5
 - Books for Web Devs — http://speckyboy.com/2015/01/12/free-web-design-ebooks-2014/
 - Semantic HTML Sections — http://www.smashingmagazine.com/2013/01/18/the-importance-of-sections/
+- DOM vs. Virtual DOM (React) — http://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom
 
 —
 
@@ -65,6 +70,7 @@ Table of Contents (in no specfic order)
 - 18 resources for learning flexbox — http://sixrevisions.com/css/learn-flexbox/
 - Flexbox Grid Finesse — https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.cosd7q577
 - FLexbox Froggy — http://flexboxfroggy.com
+- Flexbox Links — https://css-tricks.com/some-great-flexbox-links-lately/
 - ITCSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
 - BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
 - BEM 101 — https://css-tricks.com/bem-101/
@@ -77,12 +83,14 @@ Table of Contents (in no specfic order)
 - OOCSS + Sass - http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
 - Atomic OOBEMITSCSS — http://www.sitepoint.com/atomic-oobemitscss/
 - End of Global CSS — https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
+- Functional CSS - https://blog.colepeters.com/building-and-shipping-functional-css/
 - Naming Stuff in CSS is Hard — http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
+- CSS Protips — https://github.com/AllThingsSmitty/css-protip
 - Sass Documentation — http://sass-lang.com/documentation/
 - Sass Project Structure — http://thesassway.com/beginner/how-to-structure-a-sass-project
-- Useful Sass Snippets — http://hmphry.com/useful-sass-mixins
+- Sass Snippets — http://hmphry.com/useful-sass-mixins
 - Sass Variables — https://robots.thoughtbot.com/sass-variables
 - Sass, Thoughtbot tags — https://robots.thoughtbot.com/tags/sass
 - Better CSS with Sass — http://www.fivesimplesteps.com/products/better-css-with-sass
@@ -133,12 +141,15 @@ Table of Contents (in no specfic order)
 - Two.js — https://jonobr1.github.io/two.js/
 - Textures.js — http://riccardoscalco.github.io/textures/
 - Ally.js — http://allyjs.io
+- React Cheat Sheet - http://reactcheatsheet.com/
 - React Shit — http://wl3.me/2015/05/01/react-in-your-react-native-webview-so-you-can-react-while-you-react.html
 - React Resources — https://github.com/enaqx/awesome-react
 - React Native — http://blog.typework.com/react-native-universal/
 - React for Designers — http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 - Icons w/ JS and React — http://jxnblk.com/react-icons/
 - React Tutorial Builder — https://github.com/insin/react-lessons
+- Redux: Getting Started - https://egghead.io/series/getting-started-with-redux
+- Making React Apps Accessible - https://code.facebook.com/posts/435862739941212/
 - Relay for Visual Learners — http://sgwilym.github.io/relay-visual-learners/
 - Webapps w/ plain js — http://plainjs.com/
 - You might not need jQuery — http://youmightnotneedjquery.com/
@@ -158,6 +169,7 @@ Table of Contents (in no specfic order)
 - Facebook & VR — https://medium.com/facebook-design/a-month-designing-in-vr-62474aef1f1c
 - OpenGL Resources Repo — https://github.com/eug/awesome-opengl
 - GEtting Started w/ Unity — https://unity3d.com/learn/tutorials/projects/roll-a-ball/introduction?playlist=17141
+- React-Three - https://github.com/Izzimach/r3test/
 
 —
 
@@ -317,6 +329,7 @@ Table of Contents (in no specfic order)
 - Why Vim — http://www.reddit.com/r/ProgrammerHumor/comments/338tx5/vim/cqiyma2
 - Vim Text Objects — http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
 - Vim Books — http://iccf-holland.org/click5.html
+- Org-Mode - http://orgmode.org/worg/
 
 —
 
@@ -338,3 +351,8 @@ Table of Contents (in no specfic order)
 - Set Capslock to Control Key — http://askubuntu.com/questions/149971/how-do-you-remap-a-key-to-the-caps-lock-key-in-xubuntu
 - Set default terminal emulator — http://www.howtogeek.com/howto/ubuntu/set-the-default-terminal-emulator-on-ubuntu-linux/
 - How to Mirror a Website — http://www.boutell.com/newfaq/creating/mirroring.html
+
+##### Bots
+
+- Whistleblower Bot - https://github.com/mhgbrown/why-you-leave-me
+- Robo Kitty - https://github.com/rachelnicole/robokitty
