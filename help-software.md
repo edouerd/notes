@@ -82,6 +82,7 @@ Table of Contents (in no specfic order)
 - BEMIT — http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/?utm_source=designernews
 - OOCSS + Sass - http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
 - Atomic OOBEMITSCSS — http://www.sitepoint.com/atomic-oobemitscss/
+- Classy CSS - http://una.im/classy-css/
 - End of Global CSS — https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
 - Functional CSS - https://blog.colepeters.com/building-and-shipping-functional-css/
 - Naming Stuff in CSS is Hard — http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
@@ -257,6 +258,7 @@ Table of Contents (in no specfic order)
 - Font Events — https://www.filamentgroup.com/lab/font-events.html
 - Load CSS — https://github.com/filamentgroup/loadCSS
 - Better @font face with font load events — https://dev.opera.com/articles/better-font-face/
+- Performance Dashboard - https://github.com/GoogleChrome/big-rig
 
 —
 
@@ -321,6 +323,7 @@ Table of Contents (in no specfic order)
 - Webpack: How To — https://github.com/petehunt/webpack-howto
 - NPM Directives — http://artcommaco.de/post/116048060446/npm-directives
 - npm + Tonic — https://blog.tonicdev.com/2015/10/28/npm-plus-tonic.html
+- Good Node Habits - https://blog.heroku.com/archives/2015/11/10/node-habits-2016
 
 —
 
@@ -343,6 +346,7 @@ Table of Contents (in no specfic order)
 - Learn Swift Github — https://github.com/swifteducation
 - Obj C for designers — https://medium.com/@tarngerine/designers-you-can-objective-c-too-7f493cdfa381
 - Using Github with Xcode 6 — https://medium.com/@0xben/using-github-with-xcode-6-8208b92c7a60
+- 3D Touch Visualizer - https://github.com/algal/TouchVisualizer
 
 —
 
