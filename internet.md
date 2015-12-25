@@ -73,3 +73,75 @@ A collection of movements, entities, organizations, etc.
 8. http://www.publishingasparttimepractice.se
 9. http://davidcole.me
 10. http://samskinner.net/
+
+##### Nice Small Retail Websites
+
+(via [here](https://medium.com/@pieratt/a-big-list-of-small-retailers-with-nice-sites-35f58abbd097#.5kbqpab0s))
+
+0. acrnm.com 
+1. bartaile.com
+2. bethellery.com
+3. bestmadeco.com
+4. billblass.com
+5. bonobos.com
+0. canopy.co *
+0. cinaart.com
+0. cinquante.com.au
+0. cocones.com
+0. crane-brothers.com
+0. driftwoodeditions.com
+0. ecc.co.nz 
+0. etq-amsterdam.com
+0. everlane.com
+0. formerlyyes.com *
+0. foremostedition.com
+0. garrettleight.com
+0. helbak.com
+0. herschelsupply.com
+0. huckberry.com
+0. joeyroth.com 
+0. kithnyc.com
+0. lazyoaf.com
+0. linxsupply.com
+0. makr.com *
+0. martinasperl.at
+0. masterdynamic.com
+0. misc-goods-co.com
+0. morerare.com
+0. mykita.com
+0. namesdublin.com
+0. neededition.com
+0. needsupply.com *
+0. odeur.se
+0. nigelevandennis.com
+0. odetothings.com
+0. ohlin-d.com
+0. olofragrance.com
+0. outdoorvoices.com
+0. outlier.cc *
+0. ovothings.com
+0. polerstuff.com
+0. repossi.com
+0. retrosuperfuture.com
+0. saturdaysnyc.com 
+0. schick-toikka.com
+0. sophiehulme.com
+0. spinanyc.com
+0. ssense.com
+0. storq.com
+0. tailfeather.com.au
+0. tenslife.com
+0. tenthousand.cc
+0. terra-nullius.co
+0. theghostlystore.com
+0. toools.co *
+0. tracksmith.com
+0. ugmonk.com
+0. undone.me
+0. unmade.com
+0. verygoods.co
+0. vooberlin.com
+0. welcometosummer.land *
+0. whatdropsnow.com
+0. woodwood.dk
+0. yielddesign.co
