@@ -321,6 +321,7 @@ Table of Contents (in no specfic order)
 - Getting Started with Gulp — https://travismaynard.com/writing/getting-started-with-gulp
 - Are.na: Gulp — https://www.are.na/morgan-sutherland/gulp-js
 - Webpack: How To — https://github.com/petehunt/webpack-howto
+- Webpack: React Hot Loader — http://gaearon.github.io/react-hot-loader/getstarted/
 - NPM Directives — http://artcommaco.de/post/116048060446/npm-directives
 - npm + Tonic — https://blog.tonicdev.com/2015/10/28/npm-plus-tonic.html
 - Good Node Habits - https://blog.heroku.com/archives/2015/11/10/node-habits-2016
