@@ -325,6 +325,7 @@ Table of Contents (in no specfic order)
 - NPM Directives — http://artcommaco.de/post/116048060446/npm-directives
 - npm + Tonic — https://blog.tonicdev.com/2015/10/28/npm-plus-tonic.html
 - Good Node Habits - https://blog.heroku.com/archives/2015/11/10/node-habits-2016
+- Node, Grunt, Gulp, Yeoman — http://juristr.com/blog/2014/08/node-grunt-yeoman-bower/
 
 —
 
