@@ -358,6 +358,7 @@ Table of Contents (in no specfic order)
 - Set default terminal emulator — http://www.howtogeek.com/howto/ubuntu/set-the-default-terminal-emulator-on-ubuntu-linux/
 - How to Mirror a Website — http://www.boutell.com/newfaq/creating/mirroring.html
 - removing extensions with .htaccess — http://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/
+- removing extensions in nginx — http://cobwwweb.com/remove-html-extension-and-trailing-slash-in-nginx-config
 
 ##### Bots
 
