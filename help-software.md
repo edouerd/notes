@@ -357,6 +357,7 @@ Table of Contents (in no specfic order)
 - Set Capslock to Control Key — http://askubuntu.com/questions/149971/how-do-you-remap-a-key-to-the-caps-lock-key-in-xubuntu
 - Set default terminal emulator — http://www.howtogeek.com/howto/ubuntu/set-the-default-terminal-emulator-on-ubuntu-linux/
 - How to Mirror a Website — http://www.boutell.com/newfaq/creating/mirroring.html
+- removing extensions with .htaccess — http://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/
 
 ##### Bots
 
