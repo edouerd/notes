@@ -46,6 +46,7 @@ People
 28. Chi-Long Trieu — http://trieu.ch/
 29. Alexander Medel Calderón — http://himedel.com/
 30. Sophia Clausse — http://www.sofiaclausse.com/
+31. Maria Chimi — http://www.mariachimi.com/
 0. John Lisle — http://johnelisle.com/
 1. Petra Cortright — http://www.petracortright.com/
 2. Sara Ludy — http://www.saraludy.com/
