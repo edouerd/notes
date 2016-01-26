@@ -54,6 +54,8 @@ People
 5. Laura Brothers — http://www.out4pizza.com/
 6. Rafael Rozendaal — http://www.newrafael.com/
 7. H. Faye Kahn — http://fayesgraphicshouse.com/index.html
+8. Chris Nosenzo — http://www.chrisnosenzo.com/about.html
+9. Nicole Reber — http://nicolemariereber.com/
 
 —
 
