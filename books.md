@@ -14,6 +14,8 @@ Basically Good Reads.
 
 ##### Books
 
+- [Discipline and Punish](https://gist.github.com/edouerd/f08d522eba0fe811ab88)
+
 ##### Essays
 
 - [Rune Madsen: On Meta Design and Algorithmic Design Systems](http://www.runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/)
