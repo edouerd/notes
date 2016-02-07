@@ -273,6 +273,7 @@ Table of Contents (in no specfic order)
 - Codepen in Gitbook — http://read.lingyu.wang/Codepen.html
 - Gitbook — https://github.com/GitbookIO/gitbook#output-formats
 - Kevin S. Gitbook — https://kevinsuttle.gitbooks.io/demo/content/
+- Sync gh-pages/master in one line — http://johnpolacek.com/2016/01/29/keep-gh-pages-and-master-in-sync-with-one-line-of-code-2/
 
 —
 
