@@ -350,6 +350,7 @@ Table of Contents (in no specfic order)
 - Obj C for designers — https://medium.com/@tarngerine/designers-you-can-objective-c-too-7f493cdfa381
 - Using Github with Xcode 6 — https://medium.com/@0xben/using-github-with-xcode-6-8208b92c7a60
 - 3D Touch Visualizer - https://github.com/algal/TouchVisualizer
+- Sound Controllers in Xcode — https://developer.apple.com/library/prerelease/ios/documentation/AudioToolbox/Reference/SystemSoundServicesReference/#//apple_ref/c/func/AudioServicesPlayAlertSound
 
 —
 
