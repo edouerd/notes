@@ -71,6 +71,7 @@ Table of Contents (in no specfic order)
 - Flexbox Grid Finesse — https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.cosd7q577
 - FLexbox Froggy — http://flexboxfroggy.com
 - Flexbox Links — https://css-tricks.com/some-great-flexbox-links-lately/
+- Flexbox Tester — http://codepen.io/edouerd/pen/gPyrWW
 - ITCSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
 - BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
 - BEM 101 — https://css-tricks.com/bem-101/
@@ -367,3 +368,5 @@ Table of Contents (in no specfic order)
 - Best Bots - http://nymag.com/following/2015/11/12-weirdest-funniest-smartest-twitter-bots.html
 - Whistleblower Bot - https://github.com/mhgbrown/why-you-leave-me
 - Robo Kitty - https://github.com/rachelnicole/robokitty
+- Beep Boop — https://beepboophq.com/
+- Botkit — http://howdy.ai/botkit/docs/
