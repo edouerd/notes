@@ -275,6 +275,7 @@ Table of Contents (in no specfic order)
 - Gitbook — https://github.com/GitbookIO/gitbook#output-formats
 - Kevin S. Gitbook — https://kevinsuttle.gitbooks.io/demo/content/
 - Sync gh-pages/master in one line — http://johnpolacek.com/2016/01/29/keep-gh-pages-and-master-in-sync-with-one-line-of-code-2/
+- .git Directory — https://medium.freecodecamp.com/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.xmd8vrs29
 
 —
 
