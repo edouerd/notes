@@ -32,6 +32,7 @@ A collection of movements, entities, organizations, etc.
 11. Inventory Press — http://www.inventorypress.com/
 12. No Layout — http://nolayout.com
 13. Antenne Books — https://www.antennebooks.com/
+14. ricochet.cc — http://www.ricochet.cc/
 
 ##### Foundries
 
