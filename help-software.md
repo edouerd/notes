@@ -86,6 +86,7 @@ Table of Contents (in no specfic order)
 - Classy CSS - http://una.im/classy-css/
 - End of Global CSS — https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
 - Functional CSS - https://blog.colepeters.com/building-and-shipping-functional-css/
+- Functional CSS for Humans — http://tachyons.io/
 - Naming Stuff in CSS is Hard — http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
@@ -304,6 +305,7 @@ Table of Contents (in no specfic order)
 - Typography on the Web Resources — https://typographyontheweb.com/
 - Dynamic Masthead — http://www.westspacejournal.org.au/article/our-masthead/
 - Typeface Design Readings — http://typefacedesign.net/resources/preparation-for-incoming-matd-students/
+- Tachyon Type Scale — http://tachyons.io/docs/typography/scale/
 
 —
 
