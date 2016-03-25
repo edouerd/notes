@@ -80,6 +80,10 @@ A collection of movements, entities, organizations, etc.
 9. http://davidcole.me
 10. http://samskinner.net/
 
+##### Industrial Designer Websites
+
+0. http://www.kazushigemiyake.com/design/
+
 ##### Nice Small Retail Websites
 
 (via [here](https://medium.com/@pieratt/a-big-list-of-small-retailers-with-nice-sites-35f58abbd097#.5kbqpab0s))
