@@ -72,3 +72,4 @@ Studios
 7. Beautiful Company — http://beautiful-company.com/
 8. Inert — http://inert.co/
 9. Rio Grande — http://riogrande.xyz/
+10. Bureau Collective — http://www.bureaucollective.ch/overview
