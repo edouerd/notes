@@ -91,6 +91,7 @@ Table of Contents (in no specfic order)
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
 - CSS Protips — https://github.com/AllThingsSmitty/css-protip
+- CSS Elastic Videos — http://webdesignerwall.com/tutorials/css-elastic-videos
 - Sass Documentation — http://sass-lang.com/documentation/
 - Sass Project Structure — http://thesassway.com/beginner/how-to-structure-a-sass-project
 - Sass Snippets — http://hmphry.com/useful-sass-mixins
