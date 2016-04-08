@@ -90,6 +90,7 @@ Table of Contents (in no specfic order)
 - Naming Stuff in CSS is Hard — http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
+- In-Depth CSS Properties — https://blog.gospodarets.com/css_properties_in_depth
 - CSS Protips — https://github.com/AllThingsSmitty/css-protip
 - CSS Elastic Videos — http://webdesignerwall.com/tutorials/css-elastic-videos
 - Sass Documentation — http://sass-lang.com/documentation/
