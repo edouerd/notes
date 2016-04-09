@@ -68,6 +68,7 @@ Table of Contents (in no specfic order)
 - 20 videos on Flexbox — http://flexbox.io/#/
 - Solved by Flexbox — https://philipwalton.github.io/solved-by-flexbox/
 - 18 resources for learning flexbox — http://sixrevisions.com/css/learn-flexbox/
+- Guide to Flexbox w/o Flexbox — http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox
 - Flexbox Grid Finesse — https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.cosd7q577
 - FLexbox Froggy — http://flexboxfroggy.com
 - Flexbox Links — https://css-tricks.com/some-great-flexbox-links-lately/
