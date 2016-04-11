@@ -79,6 +79,9 @@ A collection of movements, entities, organizations, etc.
 8. http://www.publishingasparttimepractice.se
 9. http://davidcole.me
 10. http://samskinner.net/
+11. http://www.danieleckler.com/
+12. http://yasly.com/
+13. http://psanches.com/
 
 ##### Industrial Designer Websites
 
