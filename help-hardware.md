@@ -13,6 +13,8 @@ Table of Contents (in no specfic order)
 2. [CAD](#cad)
 3. [IoT](#iot)
 4. [Open Source](#open-source)
+5. [Materials](#materials)
+6. [Shops](#shops)
 
 —
 
@@ -67,3 +69,17 @@ Table of Contents (in no specfic order)
 - OpenSCAD — http://www.openscad.org/
 - Generic Lab Tools — http://www.gaudi.ch/GaudiLabs/?page_id=328
 - Wifi Pocketbook — http://n-o-d-e.net/post/127931462536/how-to-create-a-wifi-pocket-book-pirate-box
+
+—
+
+##### Materials
+
+- Canal Plastic (NYC) — http://canalplastic.com/
+- The Compleat Sculptor, Inc. (NYC) — http://www.sculpt.com/
+
+—
+
+##### Shops
+
+- Gowanus Studio Space (NYC) — http://gowanusstudio.org/fabrication-shops/
+- Makeville Studio (NYC) — http://www.makeville.com/about.htm
