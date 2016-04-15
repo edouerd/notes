@@ -343,6 +343,7 @@ Table of Contents (in no specfic order)
 - Vim Text Objects — http://blog.carbonfive.com/2011/10/17/vim-text-objects-the-definitive-guide/
 - Vim Books — http://iccf-holland.org/click5.html
 - Org-Mode - http://orgmode.org/worg/
+- VIM — http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim#answer-1220118
 
 —
 
