@@ -83,3 +83,4 @@ Table of Contents (in no specfic order)
 
 - Gowanus Studio Space (NYC) — http://gowanusstudio.org/fabrication-shops/
 - Makeville Studio (NYC) — http://www.makeville.com/about.htm
+- List of great printers — http://printers.oogaboogastore.com/
