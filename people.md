@@ -11,7 +11,8 @@ Mentor-figures
 0. Susan Kare — https://en.wikipedia.org/wiki/Susan_Kare
 1. Anna Anthropy — http://auntiepixelante.com/
 2. Olia Lialina — http://art.teleportacia.org/
-3. Naoto Fukusawa — http://en.plusminuszero.jp/
+3. Jane Fulton Suri — https://www.ideo.com/people/jane-fulton-suri
+4. Naoto Fukusawa — http://en.plusminuszero.jp/
 
 People
 
