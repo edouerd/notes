@@ -29,6 +29,7 @@ Table of Contents (in no specfic order)
 16. [iOS/OSX](#iososx)
 17. [Unix](#unix)
 18. [Bots](#bots)
+19. [Blockchain](#blockchain)
 
 —
 
@@ -381,3 +382,10 @@ Table of Contents (in no specfic order)
 - Robo Kitty - https://github.com/rachelnicole/robokitty
 - Beep Boop — https://beepboophq.com/
 - Botkit — http://howdy.ai/botkit/docs/
+
+##### Blockchain
+
+- Ethereum Reddit — https://www.reddit.com/r/ethereum/
+- Understanding Ethereum — https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/
+- Ethereum in Practice — https://blog.ethereum.org/2015/12/04/ethereum-in-practice-part-2-how-to-build-a-better-democracy-in-under-a-100-lines-of-code/
+- Distributed Ethereum App List — http://dapps.ethercasts.com/
