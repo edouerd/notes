@@ -48,6 +48,7 @@ Table of Contents (in no specfic order)
 - Regex Visualizer - https://jex.im/regulex/#!embed=false&flags=&re=%5E(a%7Cb)*%3F%24
 - Regex: Learn, Build, and Test - http://regexr.com/
 - MDN RegExp - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
+- Functional Programming — https://github.com/markerikson/react-redux-links/blob/master/functional-programming.md
 
 —
 
@@ -165,6 +166,7 @@ Table of Contents (in no specfic order)
 - Animation Library — http://famous.org/
 - Easy Paper.js — http://andyshora.com/easy-paper-js-tutorial.html
 - Javascript the Right Way — https://github.com/braziljs/js-the-right-way
+- React/Redux Links — https://github.com/markerikson/react-redux-links
 
 —
 
