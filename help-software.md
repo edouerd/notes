@@ -50,6 +50,8 @@ Table of Contents (in no specfic order)
 - Regex: Learn, Build, and Test - http://regexr.com/
 - MDN RegExp - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
 - Functional Programming — https://github.com/markerikson/react-redux-links/blob/master/functional-programming.md
+- Frontend Dev Bookmarks — https://github.com/dypsilon/frontend-dev-bookmarks
+- Backend Dav Bookmarks — https://gist.github.com/dypsilon/5819528/
 
 —
 
