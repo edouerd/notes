@@ -5,6 +5,7 @@
 edouard (u)
 
 - http://edouard.us
+- https://keybase.io/edouard
 - https://dribbble.com/edouard
 - https://www.goodreads.com/edouard
 - https://www.instapaper.com/p/edouard
