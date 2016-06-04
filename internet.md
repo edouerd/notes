@@ -87,6 +87,7 @@ A collection of movements, entities, organizations, etc.
 ##### Industrial Designer Websites
 
 0. http://www.kazushigemiyake.com/design/
+1. http://mapprojectoffice.com/
 
 ##### Nice Small Retail Websites
 
