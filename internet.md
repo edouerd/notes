@@ -40,7 +40,7 @@ A collection of movements, entities, organizations, etc.
 0. Colophon — http://www.colophon-foundry.org/fonts
 1. Phil Baber — http://www.philbaber.com/philbaber/maria/
 2. Lineto — http://lineto.com/
-3. Pagan and Sharp — http://paganandsharp.com/
+3. ~~Pagan and Sharp — http://paganandsharp.com/~~
 4. Millieu Grotesque — http://www.milieugrotesque.com/
 5. Klim Type Foundry — https://klim.co.nz/
 6. Commercial Type — http://commercialtype.com/
@@ -55,6 +55,7 @@ A collection of movements, entities, organizations, etc.
 13. Txt Block — http://pwrstudio.github.io/txtblock/
 14. Mediumextrabold — http://mediumextrabold.com/
 15. Open Foundry (OS) — http://open-foundry.com/
+16. Sharp Type — http://www.sharptype.co/
 
 ##### Favorite Websites
 
