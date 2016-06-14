@@ -12,6 +12,7 @@ Table of Contents
 2. [books.md](https://github.com/edouerd/notes/blob/master/books.md) — Books and Reviews, scratchpad for 'Shelf Shelf'.
 3. [édouard.md](https://github.com/edouerd/notes/blob/master/edouard.md) — For doxers (jk lol, just a listing of my accounts)
 4. [emoji.md](https://github.com/edouerd/notes/blob/master/emoji.md) — Like ascii.md, but a little crazier.
+5. [help-freelance.md](https://github.com/edouerd/notes/blob/master/help-freelance.md) — Learning links for self-development.
 5. [help-hardware.md](https://github.com/edouerd/notes/blob/master/help-hardware.md) — Learning links for self-development.
 6. [help-software.md](https://github.com/edouerd/notes/blob/master/help-software.md) — Learning links for self-development.
 6. [internet.md](https://github.com/edouerd/notes/blob/master/internet.md) — Internet entities/orgs I keep tabs on.
