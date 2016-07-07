@@ -34,6 +34,8 @@ A collection of movements, entities, organizations, etc.
 13. Antenne Books — https://www.antennebooks.com/
 14. ricochet.cc — http://www.ricochet.cc/
 15. Strelka Press — http://www.strelka.com/en/press
+16. Lars Müller Publishers — https://www.lars-mueller-publishers.com/
+17. So Books — https://sobooks.jp/
 
 ##### Foundries
 
