@@ -394,6 +394,7 @@ Table of Contents (in no specfic order)
 - Understanding Ethereum — https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/
 - Ethereum in Practice — https://blog.ethereum.org/2015/12/04/ethereum-in-practice-part-2-how-to-build-a-better-democracy-in-under-a-100-lines-of-code/
 - Distributed Ethereum App List — http://dapps.ethercasts.com/
+- Ethereum CLI tutorial — https://github.com/ethereum/go-ethereum/wiki/Managing-your-accounts
 
 ##### Game Development
 
