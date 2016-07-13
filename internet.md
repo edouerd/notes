@@ -58,6 +58,7 @@ A collection of movements, entities, organizations, etc.
 14. Mediumextrabold — http://mediumextrabold.com/
 15. Open Foundry (OS) — http://open-foundry.com/
 16. Sharp Type — http://www.sharptype.co/
+17. Dinamo — http://www.abcdinamo.com/
 
 ##### Favorite Websites
 
