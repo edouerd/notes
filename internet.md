@@ -69,6 +69,7 @@ A collection of movements, entities, organizations, etc.
 3. http://fayesgraphicshouse.com/
 4. http://macbook.design/
 5. http://saraludy.com/
+6. http://chrisnovello.com/teaching/risd/computer-utopias/
 
 ##### Nice Personal Websites
 
