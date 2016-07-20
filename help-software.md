@@ -204,6 +204,9 @@ Table of Contents (in no specfic order)
 - Pocket Guide to SVG — http://svgpocketguide.com/book/
 - SVG on the Web — https://svgontheweb.com/
 - SVG Spritesheets — http://blog.teamtreehouse.com/create-svg-sprite-sheet
+- GraphViz 1 — http://www.tonyballantyne.com/graphs.html#sec-7
+- GraphViz 2 — http://soc.if.usp.br/manual/graphviz/html/info/attrs.html
+- GraphViz 3 — http://graphs.grevian.org/reference
 
 —
 
