@@ -32,6 +32,7 @@ Table of Contents (in no specfic order)
 - 3D Print Part Design (Formlabs) — http://formlabs.com/media/upload/formlabs-design-guide.pdf
 - Milling 101 — http://blog.inventables.com/2014/07/milling-101-understanding-milling-bits.html
 - Moldability 101 — http://www.paralleldesign.com/moldability_101/index.htm
+- Etsy Manufacturing — https://www.etsy.com/manufacturing/
 
 —
 
