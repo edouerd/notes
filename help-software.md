@@ -159,6 +159,7 @@ Table of Contents (in no specfic order)
 - React for Designers — http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 - Icons w/ JS and React — http://jxnblk.com/react-icons/
 - React Tutorial Builder — https://github.com/insin/react-lessons
+- Static Sites w/ React + webpack — http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/#create-a-data-file
 - Redux: Getting Started - https://egghead.io/series/getting-started-with-redux
 - Making React Apps Accessible - https://code.facebook.com/posts/435862739941212/
 - Relay for Visual Learners — http://sgwilym.github.io/relay-visual-learners/
