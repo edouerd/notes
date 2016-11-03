@@ -332,6 +332,7 @@ Table of Contents (in no specfic order)
 - Art of the Command Line — https://github.com/jlevy/the-art-of-command-line
 - iTerm Shell integration — https://iterm2.com/shell_integration.html
 - iTerm Window Mgmt — http://chris-schmitz.com/develop-faster-with-iterm-profiles-and-window-arrangements/
+- How to keep processed running — http://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session
 
 —
 
