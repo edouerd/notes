@@ -31,6 +31,7 @@ Table of Contents (in no specfic order)
 18. [Bots](#bots)
 19. [Blockchain](#blockchain)
 20. [Game Development](#game-development)
+21. [Data Science](#data-science)
 
 —
 
@@ -138,11 +139,12 @@ Table of Contents (in no specfic order)
 - Javascript.com — https://www.javascript.com/
 - Learn Javascript Resources — http://frontenddeveloperjob.com/learn-javascript/
 - Essential Javascript Links — https://github.com/ericelliott/essential-javascript-links
+- * Eloquent Javascript — http://eloquentjavascript.net/
 - Javascript Quality Guide — https://github.com/bevacqua/js
 - Learn Javascript Book — http://gitbookio.gitbooks.io/javascript/content/en/index.html
 - Functional Programming in Javascript — http://jhusain.github.io/learnrx/
 - Mostly Adequate Guide to FP in JS — https://github.com/DrBoolean/mostly-adequate-guide
-- You don't Kno Javascript — https://github.com/getify/You-Dont-Know-JS
+- * You don't Kno Javascript — https://github.com/getify/You-Dont-Know-JS
 - Unveil.js — http://luis-almeida.github.io/unveil/
 - Lazyload — http://www.appelsiini.net/projects/lazyload
 - Layzr.js — http://callmecavs.github.io/layzr.js/
@@ -171,6 +173,11 @@ Table of Contents (in no specfic order)
 - Easy Paper.js — http://andyshora.com/easy-paper-js-tutorial.html
 - Javascript the Right Way — https://github.com/braziljs/js-the-right-way
 - React/Redux Links — https://github.com/markerikson/react-redux-links
+- Learn Redux — https://learnredux.com/
+- Full Stack React — https://www.fullstackreact.com/
+- React for Beginners — https://reactforbeginners.com/
+- ES6 For Everyone — https://es6.io/
+- How to Learn Javascript Properly — http://javascriptissexy.com/how-to-learn-javascript-properly/
 
 —
 
@@ -410,3 +417,8 @@ Table of Contents (in no specfic order)
 - http://www.aseprite.org/
 - http://pcg.wikidot.com/
 - http://www.monogame.net/
+
+##### Data Science
+
+- https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.tklt3b817
+- http://scikit-learn.org/stable/tutorial/
