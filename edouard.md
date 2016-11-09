@@ -41,3 +41,7 @@ edouerd
 - https://github.com/edouerd
 - https://ifttt.com/p/edouerd
 - http://delinear.info/@edouerd
+
+learning gardens
+
+- http://southland.institute/outerschools.html
