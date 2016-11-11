@@ -341,6 +341,7 @@ Table of Contents (in no specfic order)
 - iTerm Window Mgmt — http://chris-schmitz.com/develop-faster-with-iterm-profiles-and-window-arrangements/
 - How to keep processed running — http://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session
 - The Tao of tmux — https://leanpub.com/the-tao-of-tmux/read
+- Benefits of using tmux — https://blog.bugsnag.com/benefits-of-using-tmux/
 
 —
 
