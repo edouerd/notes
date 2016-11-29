@@ -79,21 +79,22 @@ Table of Contents (in no specfic order)
 - FLexbox Froggy — http://flexboxfroggy.com
 - Flexbox Links — https://css-tricks.com/some-great-flexbox-links-lately/
 - Flexbox Tester — http://codepen.io/edouerd/pen/gPyrWW
-- ITCSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
-- BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
-- BEM 101 — https://css-tricks.com/bem-101/
-- MindBEMding — http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
-- BEMCSS Definitions — https://en.bem.info/method/definitions/
-- BEM + SASS — https://medium.com/@andersonorui_/bem-sass-and-bootstrap-9f89dc07d20f
-- BEM for UX — http://simurai.com/blog/2013/10/24/BEM-syntax-with-ux-in-mind/
-- Small Project BEM — http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/
-- BEMIT — http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/?utm_source=designernews
-- OOCSS + Sass - http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
-- Atomic OOBEMITSCSS — http://www.sitepoint.com/atomic-oobemitscss/
-- Classy CSS - http://una.im/classy-css/
-- End of Global CSS — https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
-- Functional CSS - https://blog.colepeters.com/building-and-shipping-functional-css/
-- Functional CSS for Humans — http://tachyons.io/
+- CSS Methodologies — http://simurai.com/blog/2016/11/27/css-methodologies
+  - ITCSS — https://speakerdeck.com/dafed/managing-css-projects-with-itcss
+  - BEMCSS — https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218
+  - BEM 101 — https://css-tricks.com/bem-101/
+  - MindBEMding — http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+  - BEMCSS Definitions — https://en.bem.info/method/definitions/
+  - BEM + SASS — https://medium.com/@andersonorui_/bem-sass-and-bootstrap-9f89dc07d20f
+  - BEM for UX — http://simurai.com/blog/2013/10/24/BEM-syntax-with-ux-in-mind/
+  - Small Project BEM — http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/
+  - BEMIT — http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/?utm_source=designernews
+  - OOCSS + Sass - http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/
+  - Atomic OOBEMITSCSS — http://www.sitepoint.com/atomic-oobemitscss/
+  - Classy CSS - http://una.im/classy-css/
+  - End of Global CSS — https://medium.com/seek-ui-engineering/the-end-of-global-css-90d2a4a06284
+  - Functional CSS - https://blog.colepeters.com/building-and-shipping-functional-css/
+  - Functional CSS for Humans — http://tachyons.io/
 - Naming Stuff in CSS is Hard — http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard
 - CSS Guidelines — http://cssguidelin.es/
 - CSS Property Reference — http://tympanus.net/codrops/css_reference/
