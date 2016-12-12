@@ -74,3 +74,22 @@ Some bonsai trees.
      (_)                    (_)
      Corwyn Yasuo Miyagishima
 ```
+
+```
+IF YOU WERE KILLED TOMORROW, I WOULDN'T GO TO UR FUNERAL CUZ I'D BE IN JAIL FOR KILLIN DA MOTHA FUCKER THAT KILLED YOU!
+
+
+..._...|..____________________, ,
+....../ `---___________----_____|] = = = = = D
+...../_==o;;;;;;;;_______.:/
+.....), ---.(_(__) /
+....// (..) ), ----"
+...//___//
+..//___//
+.//___//
+
+WE TRUE HOMIES
+WE RIDE TOGETHER
+WE DIE TOGETHER
+send this GUN to everyone you care about including me if you care. C how many times you get this, if you get a 13 your A TRUE HOMIE
+```
