@@ -264,6 +264,12 @@ Table of Contents (in no specfic order)
 
 - OSX PGP Tutorial — http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/
 - Chat Encrypted — http://chatencrypted.com/
+- Two-Factor Authentication App List — https://twofactorauth.org/
+- DIY Feminist Cybersecurity — https://hackblossom.org/cybersecurity/
+- General ToDo — https://ssd.eff.org/en/playlist/activist-or-protester#communicating-others
+- General ToDo — http://fusion.net/story/368351/trump-security-state/
+- AirVPN — https://airvpn.org/?referred_by=151075
+- 
 
 —
 
@@ -394,6 +400,8 @@ Table of Contents (in no specfic order)
 - How to Mirror a Website — http://www.boutell.com/newfaq/creating/mirroring.html
 - removing extensions with .htaccess — http://alexcican.com/post/how-to-remove-php-html-htm-extensions-with-htaccess/
 - removing extensions in nginx — http://cobwwweb.com/remove-html-extension-and-trailing-slash-in-nginx-config
+- Getting started in i3 wm — https://fedoramagazine.org/getting-started-i3-window-manager/
+- Archwiki: i3 — https://wiki.archlinux.org/index.php/I3
 
 ##### Bots
 
