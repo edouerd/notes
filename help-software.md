@@ -263,13 +263,12 @@ Table of Contents (in no specfic order)
 ##### Security
 
 - OSX PGP Tutorial — http://notes.jerzygangi.com/the-best-pgp-tutorial-for-mac-os-x-ever/
-- Chat Encrypted — http://chatencrypted.com/
 - Two-Factor Authentication App List — https://twofactorauth.org/
 - DIY Feminist Cybersecurity — https://hackblossom.org/cybersecurity/
 - General ToDo — https://ssd.eff.org/en/playlist/activist-or-protester#communicating-others
 - General ToDo — http://fusion.net/story/368351/trump-security-state/
 - AirVPN — https://airvpn.org/?referred_by=151075
-- 
+- VPN and TOR — https://www.bestvpn.com/blog/42672/using-vpn-tor-together/
 
 —
 
