@@ -65,9 +65,7 @@ A collection of movements, entities, organizations, etc.
 0. http://www.itwillneverbethesame.com/
 0. http://infinite.selftitled.de/
 1. http://juliakimsmith.com/
-2. http://yaleinteractivedesign.com/
 3. http://fayesgraphicshouse.com/
-4. http://macbook.design/
 5. http://saraludy.com/
 6. http://chrisnovello.com/teaching/risd/computer-utopias/
 
