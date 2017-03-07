@@ -10,6 +10,7 @@ Index
 
 1. [Linux Environment](#linux-environment)
 2. OSX Environment
+3. Windows Environment
 
 -
 
