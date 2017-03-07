@@ -1,16 +1,13 @@
-Startup
-
--
-
-How to set up various devices (To be ordered properly some day)
+#### Startup
+###### How to set up various devices (To be ordered properly some day)
 
 -
 
 Index
 
 1. [Linux Environment](#linux-environment)
-2. OSX Environment
-3. Windows Environment
+2. [OSX Environment](#osx-environment)
+3. [Windows Environment](#windows-environment)
 
 -
 
