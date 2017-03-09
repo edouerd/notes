@@ -6,7 +6,7 @@
 Index
 
 1. [Linux Environment](#linux-environment)
-2. [OSX Environment](#osx-environment)
+2. [MacOS Environment](#macos-environment)
 3. [Windows Environment](#windows-environment)
 
 -
@@ -42,3 +42,14 @@ https://faq.i3wm.org/question/6/how-can-i-set-a-desktop-background-image-in-i3/
 
 Set up ncmpcpp/mpd
 http://www.linuxandlife.com/2012/01/simple-guide-to-set-up-mpd-with-ncmpcpp.html
+
+
+##### macOS Environment 
+
+*dev setup*
+
+Homebrew
+https://brew.sh/
+
+Javascript Stack
+https://github.com/verekia/js-stack-from-scratch
