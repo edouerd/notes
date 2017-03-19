@@ -8,6 +8,7 @@ Index
 1. [Linux Environment](#linux-environment)
 2. [MacOS Environment](#macos-environment)
 3. [Windows Environment](#windows-environment)
+4. [Misc.](#misc)
 
 -
 
@@ -17,16 +18,13 @@ Index
 
 - [Convert Unity (Ubuntu WM) into i3](http://walther.io/how-to-replace-unity-with-i3-window-manager-on-ubuntu-1204/
 http://i3wm.org/docs/userguide.html#configuring)
-
 - [Re-map Caps Lock into Control (Ubuntu)](http://askubuntu.com/questions/33774/how-do-i-remap-the-caps-lock-and-ctrl-keys
 http://ubuntuforums.org/showthread.php?t=1793250)
 
 *Command Line*
 
 - [Set up default terminal emulator (Ubuntu)](http://www.howtogeek.com/howto/ubuntu/set-the-default-terminal-emulator-on-ubuntu-linux/)
-
 - [Set up tmux](https://robots.thoughtbot.com/a-tmux-crash-course)
-
 - [Set up fish](http://fishshell.com/docs/current/index.html)
 
 *Extras*
@@ -48,3 +46,11 @@ https://brew.sh/
 
 Javascript Stack
 https://github.com/verekia/js-stack-from-scratch
+
+
+##### Misc.
+
+*Twitter Bots*
+
+- [Phython Script](https://github.com/tommeagher/heroku_ebooks)
+- [How-to article](https://medium.com/science-friday-footnotes/how-to-make-a-twitter-bot-in-under-an-hour-259597558acf#.htlgy8fqw)
