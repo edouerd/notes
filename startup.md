@@ -41,11 +41,9 @@ http://www.linuxandlife.com/2012/01/simple-guide-to-set-up-mpd-with-ncmpcpp.html
 
 *dev setup*
 
-Homebrew
-https://brew.sh/
 
-Javascript Stack
-https://github.com/verekia/js-stack-from-scratch
+- [Homebrew](https://brew.sh/)
+- [Javascript Stack](https://github.com/verekia/js-stack-from-scratch)
 
 
 ##### Misc.
