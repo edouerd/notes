@@ -269,7 +269,8 @@ Table of Contents (in no specfic order)
 - General ToDo — http://fusion.net/story/368351/trump-security-state/
 - AirVPN — https://airvpn.org/?referred_by=151075
 - VPN and TOR — https://www.bestvpn.com/blog/42672/using-vpn-tor-together/
-— Multi-level security list — https://github.com/hongkonggong/tldr-digital-security
+- Multi-level security list — https://github.com/hongkonggong/tldr-digital-security
+- https://medium.freecodecamp.com/how-to-set-up-a-vpn-in-5-minutes-for-free-and-why-you-urgently-need-one-d5cdba361907
 
 —
 
