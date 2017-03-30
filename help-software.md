@@ -411,6 +411,7 @@ Table of Contents (in no specfic order)
 - Robo Kitty - https://github.com/rachelnicole/robokitty
 - Beep Boop — https://beepboophq.com/
 - Botkit — http://howdy.ai/botkit/docs/
+- Markov Twitter Bot — https://sts10.github.io/blog/2014/12/23/guide-create-markov-twitter-bot/
 
 ##### Blockchain
 
