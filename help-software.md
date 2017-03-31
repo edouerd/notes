@@ -391,6 +391,7 @@ Table of Contents (in no specfic order)
 - Sound Controllers in Xcode — https://developer.apple.com/library/prerelease/ios/documentation/AudioToolbox/Reference/SystemSoundServicesReference/#//apple_ref/c/func/AudioServicesPlayAlertSound
 - Reusable iOS dev components — https://ios.james.ooo/9-time-saving-ios-7-libraries-43e943e6627#.gjeahr9nj
 - Xcode Animation w/o Code — https://medium.com/learning-xcode-as-a-designer/animate-in-xcode-without-code-20c82a904164#.6opu4it3r
+- iOS from scratch — https://code.tutsplus.com/series/ios-from-scratch-with-swift--cms-909
 
 —
 
