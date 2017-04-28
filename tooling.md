@@ -1,4 +1,4 @@
-Tooling
+Tooling (this is hyper out of date as of 04/17, will update in the upcoming weeks)
 
 —
 
@@ -17,7 +17,7 @@ Table of Contents
 
 ##### Computing
 
-- Terminal Emulator — https://iterm2.com
+- Terminal Emulator — https://hyper.is/
 - Shell — http://fishshell.com/
 - Multiplexer — http://tmux.github.io/
 - (Linux) Windows Manager — https://i3wm.org/
