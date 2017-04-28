@@ -26,7 +26,7 @@ Table of Contents
 
 ##### Web Development
 
-- VPN Hosting — https://www.linode.com/
+- Personal Server — https://www.digitalocean.com/
 - Dynamic/Responsive Image CDN — https://www.imgix.com/
 - Version Control Software (lol) — https://github.com/edouerd
 
