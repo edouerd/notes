@@ -32,6 +32,7 @@ Table of Contents (in no specfic order)
 19. [Blockchain](#blockchain)
 20. [Game Development](#game-development)
 21. [Data Science](#data-science)
+22. [APIs](#apis)
 
 —
 
@@ -53,6 +54,7 @@ Table of Contents (in no specfic order)
 - Functional Programming — https://github.com/markerikson/react-redux-links/blob/master/functional-programming.md
 - Frontend Dev Bookmarks — https://github.com/dypsilon/frontend-dev-bookmarks
 - Backend Dav Bookmarks — https://gist.github.com/dypsilon/5819528/
+- Front End Debuggin Tips — https://css-tricks.com/debugging-tips-tricks/
 
 —
 
@@ -438,3 +440,7 @@ Table of Contents (in no specfic order)
 
 - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.tklt3b817
 - http://scikit-learn.org/stable/tutorial/
+
+##### APIs
+
+- https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
