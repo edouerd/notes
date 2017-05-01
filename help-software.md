@@ -181,6 +181,10 @@ Table of Contents (in no specfic order)
 - React for Beginners — https://reactforbeginners.com/
 - ES6 For Everyone — https://es6.io/
 - How to Learn Javascript Properly — http://javascriptissexy.com/how-to-learn-javascript-properly/
+- A Beginner’s Guide to Currying in Functional JavaScript — https://www.sitepoint.com/currying-in-functional-javascript/
+- Anjana Vakil: Learning Functional Programming with JavaScript — https://www.youtube.com/watch?v=e-5obm1G_FY
+- Intro to Fiber — https://www.youtube.com/watch?v=ZCuYPiUIONs
+- Node Workshoppers — https://nodeschool.io/#workshopper-list
 
 —
 
