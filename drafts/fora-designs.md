@@ -1,9 +1,9 @@
 Hi Martians —
 
-I’d like to present some works I’ve been noodling on for the last two weeks or so, as an assist of sorts to some simple-app use cases ~tonret-sigsur and ~dorlun_sibnus have been working on. 
+I’d like to present some works I’ve been noodling on for the last two weeks or so, as an assist of sorts to some simple-app use cases `~tonret-sigsur` and `~dorlun_sibnus` have been working on. 
 
 Here is a link to some static-designs representing Feed, Link, Mesh, and a sampling of other small interfaces:
-ff
+
 https://www.figma.com/file/NgBtgxf20tE2xO6VzRfIvwQd/Urbit-Apps
 
 The link should be viewable without an account, but if you’d like to see my annotations and/or leave some of your own, you’ll need to make a [Figma](https://www.figma.com/) account (it’s a great free solution to interface designing in the browser).
