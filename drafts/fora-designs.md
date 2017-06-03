@@ -8,9 +8,11 @@ https://www.figma.com/file/NgBtgxf20tE2xO6VzRfIvwQd/Urbit-Apps
 
 The link should be viewable without an account, but if you’d like to see my annotations and/or leave some of your own, you’ll need to make a [Figma](https://www.figma.com/) account (it’s a great free solution to interface designing in the browser).
 
-Additionally, I’ve attempted to translate the above into some basic prototypes here: https://codepen.io/collection/DLbWke/
+Additionally, I’ve attempted to translate the above into some basic prototypes here: 
 
-As a bonus, here is a file parsing through the initial run of interfaces displayed in during the 2017 star sale:
+https://codepen.io/collection/DLbWke/
+
+As a bonus, here is a file parsing through the initial run of interfaces displayed in during the 2017 star sale, and seeing how they'd work on mobile devices:
 
 https://www.figma.com/file/TKF90Ptq2oVVnxPq6pQkK7KE/Urbit-Mobile
 
