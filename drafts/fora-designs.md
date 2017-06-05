@@ -1,4 +1,4 @@
-New Urbit Interfaces: Simple Software
+No brand, quality interfaces: Simple Urbit Software
 
 Hi Martians —
 
