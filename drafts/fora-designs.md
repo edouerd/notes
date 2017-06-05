@@ -8,17 +8,17 @@ Here is a link to some static-designs representing Feed, Link, Mesh, and a sampl
 
 https://www.figma.com/file/NgBtgxf20tE2xO6VzRfIvwQd/Urbit-Apps
 
-The link should be viewable without an account, but if you’d like to see my annotations and/or leave some of your own, you’ll need to make a [Figma](https://www.figma.com/) account (it’s a great free solution to interface designing in the browser).
+The link should be viewable without an account, but if you’d like to see my annotations (which include a lot of context and reasoning behind some decisions I made) and/or leave some of your own, you’ll need to make a [Figma](https://www.figma.com/) account (it’s a great free solution to interface designing in the browser).
 
-I’ve attempted to translate the above into some basic prototypes here: https://codepen.io/collection/DLbWke/
+I’ve attempted to translate the above into some basic prototypes here, these are still WIP, and are heavily under development: https://codepen.io/collection/DLbWke/
 
-As a bonus, here is a file parsing through the initial run of interfaces displayed in during the 2017 star sale, and seeing how they'd work on mobile devices:
+As a bonus, here is a file parsing through the initial run of interfaces displayed in during the 2017 star sale, and seeing how they'd work on mobile devices. Still heavily WIP:
 
 https://www.figma.com/file/TKF90Ptq2oVVnxPq6pQkK7KE/Urbit-Mobile
 
 —
 
-Along with the application/use-cases explored above, I’ve been considering other useful applications that’d get me (a decidedly not-as-technical-as-most-of-you urbit user) using Urbit for simple and frequent tasks. Ideally, these simple apps would warm people up to the idea of performing light computation or tasks on our baby computer-network.
+Along with the use cases explored above, I’ve been considering other useful applications that’d get me (a decidedly not-as-technical-as-most-of-you urbit user) using Urbit for simple and frequent tasks. Ideally, these simple apps would warm people up to the idea of performing light computation or tasks on our baby computer-network.
 
 ### Utilities
 
@@ -29,7 +29,7 @@ Refer to https://slides.com for an ideal web-based slide-building app. Feature s
 A simple hour-by-hour scheduler — allows two or more ships to agree on an interval of time to meet. Refer to https://beta.doodle.com  or https://www.when2meet.com
 
 ## Notes
-Simple markdown note taking. (Technically this is possible with .md files and clay+tree, but a dedicated interface for writing, styling, and searching for notes would be nice)
+Simple markdown note taking (Technically this is possible with .md files and clay+tree, but a dedicated interface for writing, styling, and searching for notes would be nice). When I think of best-in-class simple text-editing apps, Notational Velocity and Notes.app come to mind.
 
 ### Media
 
