@@ -412,6 +412,7 @@ Table of Contents (in no specfic order)
 - Getting started in i3 wm — https://fedoramagazine.org/getting-started-i3-window-manager/
 - Archwiki: i3 — https://wiki.archlinux.org/index.php/I3
 - [Remember this when you're setting up new NGINX record blocks for websites](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-14-04-lts)
+- [ssh key management, basic](https://github.com/tildeclub/tilde.club/blob/master/docs/ssh.md)
 
 ##### Bots
 
