@@ -1,0 +1,113 @@
+https://jjude.com/props-vs-state-reactjs/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=75 | Simple tutorial to understand props vs state in React.js by @jjude
+https://jjude.com/react-component-with-tsc/ | Create React.js component with Typescript by @jjude
+https://p5js.org/examples/hello-p5-drawing.html | p5.js | examples
+https://medium.com/styled-components/how-to-create-responsive-ui-with-styled-components-c6b71a3ce172 | How to create responsive UI with styled-components – 💅 styled-components – Medium
+https://codeburst.io/a-quick-practical-example-of-javascripts-reduce-function-862b506d01a4 | A Quick Practical Example of JavaScript’s Reduce Function
+https://github.com/bpesquet/thejsway/blob/master/manuscript/intro01.md | thejsway/intro01.md at master · bpesquet/thejsway
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction – JavaScript Scene – Medium
+https://medium.appbase.io/how-to-build-a-github-search-ui-in-60-minutes-295109211c70 | How To Build A Github Search UI in 60 Minutes 🔍 – All things #datastreams
+https://glamorous.rocks/getting-started/ | Getting started
+https://github.com/getify/You-Dont-Know-JS | getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.
+https://objectpartners.com/2017/07/19/creating-a-static-blog-with-gatsby/?utm_source=reactnl&utm_medium=email | Creating a Static Blog with Gatsby | Object Partners
+https://leo.im/2017/electron-next?utm_source=reactnl&utm_medium=email | Building Electron Apps with Next.js — Leo Lamprecht
+https://javascriptplayground.com/blog/2017/07/react-extracting-logic/?utm_source=reactnl&utm_medium=email | Extracting Logic from React Components
+https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1 | JavaScript Factory Functions with ES6+ – JavaScript Scene – Medium
+https://benmccormick.org/2017/07/19/ten-things-javascript/ | Ten Things A Serious JavaScript Developer Should Learn | benmccormick.org
+https://www.sitepoint.com/mvc-design-pattern-javascript/ | The MVC Design Pattern in Vanilla JavaScript — SitePoint
+https://www.robinwieruch.de/learn-react-before-using-redux/?utm_source=reactnl&utm_medium=email | 8 things to learn in React before using Redux - RWieruch
+https://www.gatsbyjs.org/docs/ | GatsbyJS
+https://reactarmory.com/guides/learn-react-by-itself/react-basics | React's Most Basics: the two functions you need
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types | Grammar and types - JavaScript | MDN
+
+https://blog.patricktriest.com/what-is-async-await-why-should-you-care/ | Async/Await Will Make Your Code Simpler
+https://www.bignerdranch.com/blog/destroy-all-classes-turn-react-components-inside-out-with-functional-programming/?utm_source=reactnl&utm_medium=email | DESTROY ALL CLASSES: Turn React Components Inside Out with Functional Programming
+https://reactarmory.com/answers/when-to-use-arrow-functions | When should I use Arrow Functions in React
+https://medium.com/netscape/react-performance-anti-pattern-creating-functions-in-render-ddeb5ebd2933 | React Performance Anti-Pattern: Creating Functions in render()
+https://medium.com/react-native-training/react-animations-in-depth-433e2b3f0e8e | React Animations in Depth – React Native Training – Medium
+http://www.react.express/components | React Components - React Express
+https://facebook.github.io/react/docs/hello-world.html | Hello World - React
+https://www.udacity.com/course/react-nanodegree--nd019 | React Nanodegree | Udacity
+https://tylermcginnis.com/subscribe/ | TylerMcGinnis.com
+https://greyscalegorilla.com/tutorials/20-speed-hacks-every-new-c4d-artist-should-know/?utm_source=Greyscalegorilla+Newsletter&utm_campaign=9b05a00203-EMAIL_CAMPAIGN_2017_06_14&utm_medium=email&utm_term=0_025cbe1576-9b05a00203-391231177&mc_cid=9b05a00203&mc_eid=8ede2ed3a3 | 20 Speed Hacks Every New C4D Artist Should Know | Greyscalegorilla
+https://greyscalegorilla.com/tutorials/50-min-of-tips-tricks-in-cinema-4d/?utm_source=Greyscalegorilla+Newsletter&utm_campaign=9b05a00203-EMAIL_CAMPAIGN_2017_06_14&utm_medium=email&utm_term=0_025cbe1576-9b05a00203-391231177&mc_cid=9b05a00203&mc_eid=8ede2ed3a3 | 50 Min of Tips & Tricks in Cinema 4D | Greyscalegorilla
+https://greyscalegorilla.com/tutorials/3d-workflows-for-lazy-people/?utm_source=Greyscalegorilla+Newsletter&utm_campaign=9b05a00203-EMAIL_CAMPAIGN_2017_06_14&utm_medium=email&utm_term=0_025cbe1576-9b05a00203-391231177&mc_cid=9b05a00203&mc_eid=8ede2ed3a3 | 3D Workflows for Lazy People | Greyscalegorilla
+https://greyscalegorilla.com/podcasts/greyscalegorilla-podcast-ep-66-practical-vs-cgi-and-why-you-should-think-like-a-filmmaker/?utm_source=Greyscalegorilla+Newsletter&utm_campaign=9b05a00203-EMAIL_CAMPAIGN_2017_06_14&utm_medium=email&utm_term=0_025cbe1576-9b05a00203-391231177&mc_cid=9b05a00203&mc_eid=8ede2ed3a3 | Greyscalegorilla Podcast Ep. 66: “Practical vs. CGI and Why You Should Think Like a Filmmaker” | Greyscalegorilla
+https://strongloop.com/strongblog/an-introduction-to-javascript-es6-classes/ | StrongLoop - An Introduction To JavaScript ES6 Classes
+https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358 | The state of JavaScript modules – webpack – Medium
+https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc | JavaScript Modules: A Beginner’s Guide – freeCodeCamp
+https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27 | My giant JavaScript Basics course is now live on YouTube. And it’s 100% free.
+
+https://greyscalegorilla.com/tutorials/20-speed-hacks-every-new-c4d-artist-should-know/ | 20 Speed Hacks Every New C4D Artist Should Know | Greyscalegorilla
+https://greyscalegorilla.com/tutorials/getting-started-with-cinema-4d-intro-to-cinema-4d-dynamics/ | Getting Started With Cinema 4D: Intro To Cinema 4D Dynamics | Greyscalegorilla
+https://vimeo.com/channels/bestofc4d/page:307 | Cinema 4D - Modeling with Splines Tutorial in Best of C4D Tutorials. on Vimeo
+https://vimeo.com/36631329 | Cinema 4D - Modeling with Splines Tutorial on Vimeo
+https://vimeo.com/38833944 | AO Cinema 4D Tip on Vimeo
+https://vimeo.com/124065566 | Cinema 4D Knife tool and UI customization on Vimeo
+https://vimeo.com/81200191 | Package Design Model on Vimeo
+https://vimeo.com/120962296 | Setting up a macro shot in Cinema 4D - Tutorial on Vimeo
+https://vimeo.com/121029905 | Cinema 4D Quick Tip: How to model smarter #1 on Vimeo
+https://vimeo.com/120815583 | Cinema 4D - Snapping, Workplanes, Grids and Guides - Tutorial on Vimeo
+https://vimeo.com/119479671 | C4D Quicktip: Creating Straight Lines with Spline Tool in Cinema 4D on Vimeo
+https://vimeo.com/116938198 | Parametric Shapes & Deformers on Vimeo
+https://vimeo.com/110038134 | Cinema 4D - Model a Technic Beam using the Bevel Tool on Vimeo
+https://vimeo.com/108063940 | Cinema 4D Creating Round Holes & Extrusions on Vimeo
+https://vimeo.com/107893573 | Cinema 4D Holes, Booleans & More Holes on Vimeo
+https://vimeo.com/105267180 | Cinema 4D Bridge Tool on Vimeo
+https://vimeo.com/106036970 | Cinema 4D Phong Tag, Phong Shading & Phong Breaks on Vimeo
+https://vimeo.com/102273640 | Cinema 4D - Lighting the Atrium Tutorial on Vimeo
+https://vimeo.com/93834599 | Cinema 4D - Lighting a Window Scene Tutorial on Vimeo
+https://vimeo.com/89014196 | Cinema 4D - Subdivision Modeling Basics - Tutorial on Vimeo
+https://vimeo.com/83389942 | Cinema 4D - Modeling with Polygons - Office Interior Tutorial on Vimeo
+https://vimeo.com/73906685 | 3DArtist-BlowUp-Part02 on Vimeo
+https://vimeo.com/67570431 | Tutorial | Natural lighting intro, in Cinema 4D on Vimeo
+https://vimeo.com/61357190 | 03_Splines and NURBS Tutorial on Vimeo
+https://vimeo.com/190979826 | Bevelling Booles in Cinema 4D on Vimeo
+https://vimeo.com/182232192 | Cinema 4D Hard Surface Modeling 2 on Vimeo
+https://vimeo.com/160582208 | Cinema 4D Hard Surface Modeling Tutorial Part 1 on Vimeo
+https://elementza.com/ | Elementza 3D Art Tutorials & Resources
+https://vimeo.com/201463658 | UV unwrapping, mapping and other UV related stuff in Cinema 4D on Vimeo
+https://vimeo.com/200627186 | Retopology in Cinema 4D on Vimeo
+https://vimeo.com/200666842 | How to model an Orange juicer (1/3) on Vimeo
+http://motionworks.net/non-uniform-bevels-in-cinema-4d/ | Non-uniform Bevels in Cinema 4D
+http://motionworks.net/creating-pipes-railings-in-cinema-4d/ | Creating Pipes & Railings in Cinema 4D
+http://motionworks.net/working-with-uvs-in-cinema-4d-and-3d-coat/ | Working with UVs in Cinema 4D and 3D Coat
+http://motionworks.net/sharpening-techniques-01/ | Sharpening Curvature in Cinema 4D
+http://helloluxx.com/tutorials/cinema4d-2/cinema4d-dynamics/3d-artist-c4d-soft-body-dynamics/ | Cinema 4D Tutorial - C4D Soft Body Dynamics - Tutorial Part One
+https://greyscalegorilla.com/intro-to-cinema-4d/auth/24398b919a9f80aeaae8ce2ea992ebc2/ | Intro to Cinema 4D - Greyscalegorilla - Cinema 4D Tutorials and Tools for Motion Graphic Designers
+http://www.eyedesyn.com/
+https://www.youtube.com/watch?v=9wRw_5DLS8c&feature=youtu.be | Learn To Model In Cinema 4D - Model Light And Add Glass Texture In Cinema 4D - YouTube
+http://www.video-tutorials.net/shop/solidworks-video-tutorials/solidworks-tutorials-videos/ | Thousands of SOLIDWORKS Tutorials - Video-Tutorials.Net
+
+https://www.udemy.com/the-complete-react-native-and-redux-course/ | The Complete React Native and Redux Course | Udemy
+https://programmingdesignsystems.com/shape/basic-shapes/index.html | Programming Design Systems
+https://github.com/ReactTraining/react-fundamentals-curriculum | ReactTraining/react-fundamentals-curriculum: Curriculum for React Training's "React Fundamentals" course
+https://facebook.github.io/react/docs/hello-world.html | Hello World - React
+https://facebook.github.io/react/contributing/design-principles.html | Design Principles - React
+https://jaysoo.ca/2017/04/30/learn-fp-with-react-part-1/ | Deconstructing the React Component — Jack Hsu
+https://design-nation.icons8.com/sketching-a-design-system-with-react-sketchapp-43e24993c8f2 | Sketching a Design System with React-SketchApp – Design Nation
+https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md | You-Dont-Know-JS/ch1.md at master · getify/You-Dont-Know-JS
+https://zapier.com/engineering/how-to-build-redux/ | Build Yourself a Redux - The Zapier Engineering Blog - Zapier
+http://speakingjs.com/es5/ch01.html | Chapter 1. Basic JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction | Introduction - JavaScript | MDN
+https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0 | Glimmer.js: What’s the Deal with TypeScript? – Tom Dale – Medium
+http://jsbooks.revolunet.com/# | JSbooks - free javascript books
+https://www.freecodecamp.com/challenges/where-do-i-belong#?solution=%0Afunction%20getIndexToIns(arr%2C%20num)%20%7B%0A%20%20%2F%2F%20Find%20my%20place%20in%20this%20sorted%20array.%0A%20%20return%20num%3B%0A%7D%0A%0AgetIndexToIns(%5B40%2C%2060%5D%2C%2050)%3B%0A | Where do I belong | Free Code Camp
+https://medium.freecodecamp.com/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8 | After building my first React Native app, I’m now convinced it’s the future.
+https://medium.freecodecamp.com/how-to-build-animated-microinteractions-in-react-aab1cb9fe7c8 | How to build animated microinteractions in React – freeCodeCamp
+https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27 | My giant JavaScript Basics course is now live on YouTube. And it’s 100% free.
+https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e | 370 Free Online Programming & Computer Science Courses You Can Start This Month
+https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3 | React’s Five Fingers of Death. Master these five concepts, then master React.
+https://medium.freecodecamp.com/building-teslas-battery-range-calculator-with-react-part-1-2cb7abd8c1ee | Building Tesla’s Battery Range Calculator with React (Part 1)
+https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d | Understanding Node.js Event-Driven Architecture – freeCodeCamp
+http://nodingbat.com/ | Noding Bat
+https://reacttraining.com/online | Learn React from the creators of React Router
+https://www.khanacademy.org/computing/computer-programming/programming/drawing-basics/p/drawing-more-shapes-with-code | Drawing more shapes with code | Drawing basics | Intro to JS: Drawing & Animation | Computer programming | Computing | Khan Academy
+http://javascriptissexy.com/how-to-learn-javascript-properly/ | How to Learn JavaScript Properly | JavaScript is Sexy
+http://alves.im/blog/before-dive-into-react.html | Before dive into React
+https://developers.google.com/web/fundamentals/performance/rendering/ | Rendering Performance  |  Web  |  Google Developers
+http://getbem.com/naming/ | BEM — Block Element Modifier
+https://suitcss.github.io/ | SUIT CSS: style tools for UI components
+https://github.com/tayiorbeii/es6_learning_notes/blob/master/03%20Functional%20JS/01_Arrow_Functions.md | es6_learning_notes/01_Arrow_Functions.md at master · tayiorbeii/es6_learning_notes
+http://reactpatterns.com/#stateless-function | reactpatterns.com/#stateless-function
+https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9 | Modern JavaScript for Ancient Web Developers – Track Changes
+https://www.superhi.com/blog/view-source-how-to-use-mouse-movement-with-javascript | View Source – how to use mouse movement with Javascript - Blog - SuperHi
