@@ -20,6 +20,7 @@ Index
   - http://i3wm.org/docs/userguide.html#configuring
 - [Re-map Caps Lock into Control (Ubuntu)](http://askubuntu.com/questions/33774/how-do-i-remap-the-caps-lock-and-ctrl-keys)
   - http://ubuntuforums.org/showthread.php?t=1793250
+- [Fix volume and brightness keys in i3](https://askubuntu.com/questions/632285/what-process-is-responsible-for-media-keys-in-unity)
 
 *Command Line*
 
