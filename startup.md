@@ -21,6 +21,10 @@ Index
 - [Re-map Caps Lock into Control (Ubuntu)](http://askubuntu.com/questions/33774/how-do-i-remap-the-caps-lock-and-ctrl-keys)
   - http://ubuntuforums.org/showthread.php?t=1793250
 - [Fix volume and brightness keys in i3](https://askubuntu.com/questions/632285/what-process-is-responsible-for-media-keys-in-unity)
+- [i3 - enabling multimedia keys](https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html)
+- [i3 + media keys](https://askubuntu.com/questions/632285/what-process-is-responsible-for-media-keys-in-unity)
+- [i3 + media keys](https://bbs.archlinux.org/viewtopic.php?id=154838)
+- [i3 + media keys](https://wiki.archlinux.org/index.php/Backlight)
 
 *Command Line*
 
