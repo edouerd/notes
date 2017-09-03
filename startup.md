@@ -38,6 +38,24 @@ Index
 - [Set up Nitrogen and have it maintain state in i3 .config (pt2)](https://faq.i3wm.org/question/6/how-can-i-set-a-desktop-background-image-in-i3/)
 - [Set up ncmpcpp/mpd](http://www.linuxandlife.com/2012/01/simple-guide-to-set-up-mpd-with-ncmpcpp.html)
 
+```
+# bindsym XF86AudioRaiseVolume exec pactl set-sink-volume 0 +5%
+# bindsym XF86AudioLowerVolume exec pactl set-sink-volume 0 -- -5%
+# bindsym XF86AudioMute exec pactl set-sink-mute 0 toggle
+
+# Pulme Audio controls
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl -- set-sink-volume 0 +5% #increase sound volume
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl -- set-sink-volume 0 -5% #decrease sound volume
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute sound
+
+# Screen brightness controls
+bindsym XF86MonBrightnessUp exec xbacklight -inc 5 # increase screen brightness
+bindsym XF86MonBrightnessDown exec xbacklight -dec 5 # decrease screen brightness
+
+# Nitrogen - keep state across startup
+exec --no-startup-id nitrogen --restore
+```
+
 ##### macOS Environment 
 
 *dev setup*
