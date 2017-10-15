@@ -25,6 +25,8 @@ Index
 - [i3 + media keys](https://askubuntu.com/questions/632285/what-process-is-responsible-for-media-keys-in-unity)
 - [i3 + media keys](https://bbs.archlinux.org/viewtopic.php?id=154838)
 - [i3 + media keys](https://wiki.archlinux.org/index.php/Backlight)
+- https://elementaryos.stackexchange.com/questions/8362/how-to-set-alternative-terminal-as-default
+- https://elementaryos.stackexchange.com/questions/38/configure-files-to-use-double-click/39#39
 
 *Command Line*
 
