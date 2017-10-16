@@ -27,6 +27,7 @@ Index
 - [i3 + media keys](https://wiki.archlinux.org/index.php/Backlight)
 - https://elementaryos.stackexchange.com/questions/8362/how-to-set-alternative-terminal-as-default
 - https://elementaryos.stackexchange.com/questions/38/configure-files-to-use-double-click/39#39
+- https://elementaryos.stackexchange.com/questions/797/how-to-get-gnu-emacs-work-on-elementary-os
 
 *Command Line*
 
