@@ -413,6 +413,7 @@ Table of Contents (in no specfic order)
 - Archwiki: i3 — https://wiki.archlinux.org/index.php/I3
 - [Remember this when you're setting up new NGINX record blocks for websites](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-14-04-lts)
 - [ssh key management, basic](https://github.com/tildeclub/tilde.club/blob/master/docs/ssh.md)
+- [Getting Started With EC2](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html?shortFooter=true)
 
 ##### Bots
 
