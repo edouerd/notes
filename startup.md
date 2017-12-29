@@ -59,6 +59,14 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 5 # decrease screen brightnes
 exec --no-startup-id nitrogen --restore
 ```
 
+###### How to get screen brightness controls working
+
+Using the following links:
+- https://unix.stackexchange.com/questions/301724/xbacklight-not-working/385116
+- https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html
+
+I followed [this](https://unix.stackexchange.com/questions/301724/xbacklight-not-working/385116) to figure out my screen identifiers and get my `xorg.conf` file set up/written from scratch. I then copied the i3 config entries displayed [here](https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html).
+
 ##### macOS Environment 
 
 *dev setup*
