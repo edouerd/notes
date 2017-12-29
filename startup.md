@@ -41,6 +41,22 @@ Index
 - [Set up Nitrogen and have it maintain state in i3 .config (pt2)](https://faq.i3wm.org/question/6/how-can-i-set-a-desktop-background-image-in-i3/)
 - [Set up ncmpcpp/mpd](http://www.linuxandlife.com/2012/01/simple-guide-to-set-up-mpd-with-ncmpcpp.html)
 
+#### How to get screen brightness controls working
+
+Using the following links:
+- https://unix.stackexchange.com/questions/301724/xbacklight-not-working/385116
+- https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html
+
+I followed [this](https://unix.stackexchange.com/questions/301724/xbacklight-not-working/385116) to figure out my screen identifiers and get my `xorg.conf` file set up/written from scratch. I then copied the i3 config entries displayed [here](https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html).
+
+#### How to get Audio working
+
+Using the following links:
+- https://ubuntuforums.org/showthread.php?t=1537375
+- https://askubuntu.com/questions/632285/what-process-is-responsible-for-media-keys-in-unity
+
+I installed PulseAudio and ALSA utilities (as described in the first link) and set my i3 config to the example displayed in the second link.
+
 ```
 # bindsym XF86AudioRaiseVolume exec pactl set-sink-volume 0 +5%
 # bindsym XF86AudioLowerVolume exec pactl set-sink-volume 0 -- -5%
@@ -58,14 +74,6 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 5 # decrease screen brightnes
 # Nitrogen - keep state across startup
 exec --no-startup-id nitrogen --restore
 ```
-
-###### How to get screen brightness controls working
-
-Using the following links:
-- https://unix.stackexchange.com/questions/301724/xbacklight-not-working/385116
-- https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html
-
-I followed [this](https://unix.stackexchange.com/questions/301724/xbacklight-not-working/385116) to figure out my screen identifiers and get my `xorg.conf` file set up/written from scratch. I then copied the i3 config entries displayed [here](https://faq.i3wm.org/question/3747/enabling-multimedia-keys.1.html).
 
 ##### macOS Environment 
 
