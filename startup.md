@@ -41,6 +41,8 @@ Index
 - [Set up Nitrogen and have it maintain state in i3 .config (pt2)](https://faq.i3wm.org/question/6/how-can-i-set-a-desktop-background-image-in-i3/)
 - [Set up ncmpcpp/mpd](http://www.linuxandlife.com/2012/01/simple-guide-to-set-up-mpd-with-ncmpcpp.html)
 
+- How to install fonts (google noto): https://www.google.com/get/noto/help/install/
+
 #### How to get screen brightness controls working
 
 Using the following links:
@@ -89,3 +91,54 @@ exec --no-startup-id nitrogen --restore
 
 - [Phython Script](https://github.com/tommeagher/heroku_ebooks)
 - [How-to article](https://medium.com/science-friday-footnotes/how-to-make-a-twitter-bot-in-under-an-hour-259597558acf#.htlgy8fqw)
+
+- - -
+
+comfy mac tips:
+
+required:
+install iTerm2 (look up how to recompile with padding and rounded edges)
+install homebrew even if you don't into programming, it's useful for updating software
+install a browser that isn't safari
+
+top/menu bar (if you don't just hide it):
+bitbar lets you put custom text from script output onto the bar
+Bartender lets you hide menu bar icons, get a cracked copy
+there's a program called Übersicht I think that lets you re implement the menu bar overlayed on the desktop as widgets but it's literally a web browser so I avoid it
+
+video and media:
+install IINA
+if you don't stream music then setup ncmpcpp + mpd for terminal music
+
+window managers:
+chunkwm is a more unixy config WM with good features
+Amethyst has a little bar icon and handy config gui but fewer tiling modes and features
+windows kinda snap to each other so manually tiling is possible too
+
+one of the comfiest thing about OSX is that GUIs are scriptable with AppleScript, even if it's the worst language since JS
+I used it to write a """theming""" script that changes wallpapers, system dark/light mode, and terminal theme on the fly
+
+Good advice, here's some other stuff:
+
+Install IceFloor, a frontend for the firewall pf (openbsd software) which is shipped with macOS. It's amazing.
+
+Textual is the greatest IRC client ever made, it costs money unless you build it yourself, instructions are here: https://blog.vortigaunt.net/how-to-compile-textual-in-2017/
+
+iTunes is amazing and integrated really well into the macOS environment, especially if you use Apple Music. Give it a shot.
+
+Terminal.app works fine most of the time compared to iTerm2's bloat, and it's not written by someone who accidentally leaked a ton of users passwords over http to their DNS servers. It's what I use.
+
+Macports is also better than homebrew if you're a programmer/have more intricate library/program needs, especially with X11. Homebrew is better if you're inexperienced.
+
+Safari is a great browser, I use it for uni/work/netflix and Firefox for the rest of my internet needs.
+
+Also join the macOS discord
+
+- - - 
+
+thanks for adding good points, I've been thinking of throwing together a ricing/application guide for macOS in the style of the W7 and W10 ones, especially since there's lots of good foss software for mac but sometimes it gets drowned out among the $30 App Store trash
+
+>safari
+I used safari for quite a while but got sick of it being selectively sluggish on certain sites, although I miss the webkit css selectors
+
+also could you hmu with a macOS discord link pls
