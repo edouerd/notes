@@ -34,6 +34,7 @@ Index
 - [Set up default terminal emulator (Ubuntu)](http://www.howtogeek.com/howto/ubuntu/set-the-default-terminal-emulator-on-ubuntu-linux/)
 - [Set up tmux](https://robots.thoughtbot.com/a-tmux-crash-course)
 - [Set up fish](http://fishshell.com/docs/current/index.html)
+- [Mount a USB/CD/etc.](https://askubuntu.com/questions/37767/how-to-access-a-usb-flash-drive-from-the-terminal)
 
 *Extras*
 
@@ -142,3 +143,4 @@ thanks for adding good points, I've been thinking of throwing together a ricing/
 I used safari for quite a while but got sick of it being selectively sluggish on certain sites, although I miss the webkit css selectors
 
 also could you hmu with a macOS discord link pls
+ 
