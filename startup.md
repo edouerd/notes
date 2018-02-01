@@ -44,6 +44,8 @@ Index
 
 - How to install fonts (google noto): https://www.google.com/get/noto/help/install/
 
+- How to open up ports on AWS: https://stackoverflow.com/questions/5004159/opening-port-80-ec2-amazon-web-services/10454688
+
 #### How to get screen brightness controls working
 
 Using the following links:
